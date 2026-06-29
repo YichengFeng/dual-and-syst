@@ -14,7 +14,7 @@ DualAndSyst is a C++17 header-only library for high-energy physics data analysis
 - **Automatic differentiation** via dual numbers (`DualNumber`, `DualMultiv`) — compute first-order derivatives of arbitrary expressions without manual calculus.
 - **Uncertainty propagation** through graph arithmetic (`DualGraph`) — add, subtract, multiply, and divide graphs while correctly propagating statistical and systematic uncertainties.
 - **Systematic uncertainty evaluation** (`SystGraph`) — manage multiple systematic variation graphs per observable, evaluate them under Simple or Barlow (subset / independent / fully-correlated) prescriptions, and produce publication-ready LaTeX tables.
-- **ROOT integration** (`TDualGraph`, `TSystGraph`) — ROOT-aware counterparts with `TGraphErrors` mirrors, `TFile` I/O, canvas drawing, overlay plots, and stacked systematic²-breakdown histograms.
+- **ROOT integration** (`TDualGraph`, `TSystGraph`) — ROOT-aware counterparts with `TGraphErrors` mirrors, `TFile` I/O, canvas drawing, overlay plots, and stacked systematic<sup>2</sup>-breakdown histograms.
 - **TGraphErrors utilities** (`TGraphErrorsOperator`) — free functions for arithmetic, rebinning, Barlow difference/ratio, event-plane resolution, and more.
 
 Systematic uncertainties follow [Barlow's prescription](https://arxiv.org/abs/hep-ex/0207026) (hep-ex/0207026).
@@ -122,9 +122,9 @@ The library supports 8 merge modes via `SystMergeMode`:
 | Mode | Type | Description |
 |---|---|---|
 | `kOneSided_Simple` | 1-sided | `σ = (v − d)` |
-| `kOneSided_Barlow_Subset` | 1-sided | `σ² = (v−d)² − |eᵥ² − e_d²|` |
-| `kOneSided_Barlow_Independent` | 1-sided | `σ² = (v−d)² − |eᵥ² + e_d²|` |
-| `kOneSided_Barlow_FullyCorrelated` | 1-sided | `σ² = (v−d)² − |eᵥ − e_d|²` |
+| `kOneSided_Barlow_Subset` | 1-sided | σ² = (v−d)² − &#124;e<sub>v</sub>² − e<sub>d</sub>²&#124; |
+| `kOneSided_Barlow_Independent` | 1-sided | σ² = (v−d)² − &#124;e<sub>v</sub>² + e<sub>d</sub>²&#124; |
+| `kOneSided_Barlow_FullyCorrelated` | 1-sided | σ² = (v−d)² − &#124;e<sub>v</sub> − e<sub>d</sub>&#124;² |
 | `kTwoSided_*` | 2-sided | Same formulas, symmetric ± |
 
 One-sided systematics contribute to either upper or lower error (sign-dependent); two-sided contribute symmetrically.
@@ -133,8 +133,11 @@ One-sided systematics contribute to either upper or lower error (sign-dependent)
 
 ## Documentation
 
+**Online:** [yichengfeng.github.io/dual-and-syst](https://yichengfeng.github.io/dual-and-syst/)
+
+**Generate locally:**
+
 ```bash
-# Generate Doxygen documentation
 doxygen Doxyfile
 xdg-open html/index.html
 ```
