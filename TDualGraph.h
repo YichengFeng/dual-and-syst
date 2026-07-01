@@ -262,6 +262,48 @@ public:
         }
     }
 
+    // --- hide bad points ---
+
+    /// \brief Remove points with (y=0 and ey=0) or any inf/nan values from
+    ///        graph_. Uses Set() to preserve styling. Does not touch points_
+    ///        or alter is_updated_.
+    void hide_bad_points() {
+        const int n = graph_.GetN();
+        double *x  = graph_.GetX();
+        double *y  = graph_.GetY();
+        double *ex = graph_.GetEX();
+        double *ey = graph_.GetEY();
+
+        std::vector<double> vx, vex, vy, vey;
+        vx.reserve(n);
+        vex.reserve(n);
+        vy.reserve(n);
+        vey.reserve(n);
+
+        for (int i = 0; i < n; i++) {
+            if (y[i] == 0 && ey[i] == 0) continue;
+            if (std::isnan(x[i])  || std::isinf(x[i])  ||
+                std::isnan(y[i])  || std::isinf(y[i])  ||
+                std::isnan(ex[i]) || std::isinf(ex[i]) ||
+                std::isnan(ey[i]) || std::isinf(ey[i])) continue;
+            vx.push_back(x[i]);
+            vex.push_back(ex[i]);
+            vy.push_back(y[i]);
+            vey.push_back(ey[i]);
+        }
+
+        const int n2 = static_cast<int>(vx.size());
+        if (n2 == n) return;  // nothing removed
+
+        graph_.Set(n2);
+        for (int i = 0; i < n2; i++) {
+            graph_.GetX()[i]  = vx[i];
+            graph_.GetEX()[i] = vex[i];
+            graph_.GetY()[i]  = vy[i];
+            graph_.GetEY()[i] = vey[i];
+        }
+    }
+
     // --- merge uncertainties (quadrature-sum x and y errors from graph) ---
     /// \brief Merge uncertainties: reconstruct from the TGraphErrors
     ///        including both x and y errors.

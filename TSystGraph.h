@@ -85,7 +85,7 @@ struct TSystVariation {
 /// \brief ROOT-enabled systematic-uncertainty graph.
 ///
 /// Provides ROOT output graphs (stat_, syst_, comb_) synced via calc(),
-/// canvas drawing (draw_stat, draw_syst, draw_comb), overlay plots
+/// overlay plots
 /// (make_plot), stacked systematic^2 histograms (make_hist), LaTeX
 /// formatting, and TFile I/O via TObject inheritance.
 ///
@@ -111,11 +111,11 @@ public:
     // --- ROOT output graph accessors (trigger calc if needed) ---
 
     /// \brief Get the statistical-uncertainty TGraphErrors (syncs if needed).
-    TGraphErrors&       stat() { calc_if_not_updated(); return stat_; }
+    TGraphErrors&       get_stat() { calc_if_not_updated(); return stat_; }
     /// \brief Get the systematic-uncertainty TGraphAsymmErrors (syncs if needed).
-    TGraphAsymmErrors&  syst() { calc_if_not_updated(); return syst_; }
+    TGraphAsymmErrors&  get_syst() { calc_if_not_updated(); return syst_; }
     /// \brief Get the combined-uncertainty TGraphAsymmErrors (syncs if needed).
-    TGraphAsymmErrors&  comb() { calc_if_not_updated(); return comb_; }
+    TGraphAsymmErrors&  get_comb() { calc_if_not_updated(); return comb_; }
 
     // --- constructors ---
 
@@ -462,36 +462,6 @@ public:
         xlim_low_  = -std::numeric_limits<double>::infinity();
         xlim_high_ =  std::numeric_limits<double>::infinity();
         is_updated_ = false;
-    }
-
-    // =====================================================================
-    //  Drawing
-    // =====================================================================
-
-    /// \brief Draw the statistical-uncertainty graph (stat_).
-    void draw_stat(const char* opt = "PL same") {
-        calc_if_not_updated();
-        stat_.DrawClone(opt);
-    }
-
-    /// \brief Draw the combined-uncertainty graph (comb_).
-    void draw_comb(const char* opt = "PL same") {
-        calc_if_not_updated();
-        comb_.DrawClone(opt);
-    }
-
-    /// \brief Draw systematic-uncertainty boxes with stat overlay.
-    void draw_syst(const char* opt = "") {
-        calc_if_not_updated();
-        syst_.DrawClone(TString("P5") + opt + " same");
-        stat_.DrawClone(TString("PL") + opt + " same");
-    }
-
-    /// \brief Draw systematic boxes and stat graph with separate options.
-    void draw_syst(const char* optstat, const char* optsyst) {
-        calc_if_not_updated();
-        syst_.DrawClone(optsyst);
-        stat_.DrawClone(optstat);
     }
 
     // =====================================================================

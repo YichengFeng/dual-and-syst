@@ -30,11 +30,11 @@ ROOTCLING_FLAGS := -I. -I$(ROOT_INCDIR)
 #  Targets
 # =========================================================================
 
-all: TDualGraph_cxx.so TSystGraph_cxx.so
+all: TDualGraph_cxx.so TSystGraph_cxx.so TGraphErrorsOperator_cxx.so
 
 clean:
-	@rm -f TDualGraph_cxx.so TSystGraph_cxx.so
-	@rm -f TDualGraph.o TSystGraph.o
+	@rm -f TDualGraph_cxx.so TSystGraph_cxx.so TGraphErrorsOperator_cxx.so
+	@rm -f TDualGraph.o TSystGraph.o TGraphErrorsOperator.o
 	@rm -f TDualGraph_dict.o TDualGraph_dict.cxx TDualGraph_dict_rdict.pcm
 	@rm -f TSystGraph_dict.o   TSystGraph_dict.cxx   TSystGraph_dict_rdict.pcm
 
@@ -54,6 +54,13 @@ TSystGraph_cxx.so: TSystGraph.o TDualGraph.o TDualGraph_dict.o TSystGraph_dict.o
 	$(CXX) -o $@ $^ $(LDFLAGS)
 
 # =========================================================================
+#  Library 3 — TGraphErrorsOperator (free functions, no dictionary)
+# =========================================================================
+
+TGraphErrorsOperator_cxx.so: TGraphErrorsOperator.o
+	$(CXX) -o $@ $^ $(LDFLAGS)
+
+# =========================================================================
 #  Compilation units
 # =========================================================================
 
@@ -62,6 +69,9 @@ TDualGraph.o: TDualGraph.cxx TDualGraph.h DualGraph.h DualNumber.h DualMultiv.h
 
 TSystGraph.o: TSystGraph.cxx TSystGraph.h SystGraph.h TDualGraph.h DualGraph.h \
               DualNumber.h DualMultiv.h
+	$(CXX) -c $(CXXFLAGS) -o $@ $<
+
+TGraphErrorsOperator.o: TGraphErrorsOperator.cxx TGraphErrorsOperator.h
 	$(CXX) -c $(CXXFLAGS) -o $@ $<
 
 TDualGraph_dict.o: TDualGraph_dict.cxx
