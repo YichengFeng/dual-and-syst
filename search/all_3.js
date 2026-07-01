@@ -1,0 +1,15 @@
+var searchData=
+[
+  ['def_5f_0',['def_',['../classSystGraph.html#a0e877d527302669ad8e3b768a44c6f63',1,'SystGraph']]],
+  ['dictionaries_1',['Build the ROOT dictionaries',['../md_README.html#autotoc_md8',1,'']]],
+  ['dictionaries_20needed_2',['Use header-only (no ROOT dictionaries needed)',['../md_README.html#autotoc_md10',1,'']]],
+  ['documentation_3',['Documentation',['../md_README.html#autotoc_md13',1,'']]],
+  ['dualandsyst_4',['DualAndSyst',['../md_README.html',1,'']]],
+  ['dualgraph_5',['dualgraph',['../classDualGraph.html#a11f63d5553904c9d4302859cd8482116',1,'DualGraph::DualGraph()=default'],['../classDualGraph.html#aa2cd8448c6b83964a89420bb591fd16f',1,'DualGraph::DualGraph(int n)'],['../classDualGraph.html#acc9f45be88dd5d77783964a86525d219',1,'DualGraph::DualGraph(const std::vector&lt; DualPoint &gt; &amp;points)'],['../classDualGraph.html',1,'DualGraph']]],
+  ['dualgraph_2eh_6',['DualGraph.h',['../DualGraph_8h.html',1,'']]],
+  ['dualmultiv_7',['dualmultiv',['../classDualMultiv.html#a6539af4cc01a993e3e20432c109696f5',1,'DualMultiv::DualMultiv(double value) noexcept'],['../classDualMultiv.html#a3e71028f40c9c454887785383165262f',1,'DualMultiv::DualMultiv(const DualNumber &amp;dn)'],['../classDualMultiv.html#a79343faca4da7b824444d09c7977d779',1,'DualMultiv::DualMultiv(int id, const DualNumber &amp;dn)'],['../classDualMultiv.html#a22c9d4da3470d6426b04ba34fa2010df',1,'DualMultiv::DualMultiv(double value, double deriv)'],['../classDualMultiv.html#aaec7ca5ab5a96544ae23eb809fa83829',1,'DualMultiv::DualMultiv() noexcept'],['../classDualMultiv.html',1,'DualMultiv']]],
+  ['dualmultiv_2eh_8',['DualMultiv.h',['../DualMultiv_8h.html',1,'']]],
+  ['dualnumber_9',['dualnumber',['../classDualNumber.html#aebf582ab3f1b478d69536c19f1592e58',1,'DualNumber::DualNumber() noexcept'],['../classDualNumber.html#adb1735597f615ba08150d6e357a3236d',1,'DualNumber::DualNumber(double value, double deriv=1.0) noexcept'],['../classDualNumber.html',1,'DualNumber']]],
+  ['dualnumber_2eh_10',['DualNumber.h',['../DualNumber_8h.html',1,'']]],
+  ['dualpoint_11',['dualpoint',['../classDualPoint.html#a9b60cc1ae85c083873a1f53a75d52632',1,'DualPoint::DualPoint() noexcept=default'],['../classDualPoint.html#a4a10231d762c67bf1a6f4e95a0f50182',1,'DualPoint::DualPoint(const DualNumber &amp;px) noexcept'],['../classDualPoint.html#a3ebcce14ebd6954f13f5496f65398ec4',1,'DualPoint::DualPoint(const DualNumber &amp;px, const DualMultiv &amp;py) noexcept'],['../classDualPoint.html',1,'DualPoint']]]
+];

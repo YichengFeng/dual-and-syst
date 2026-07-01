@@ -1,0 +1,5 @@
+<map id="GraphErrToVal" name="GraphErrToVal">
+<area shape="rect" id="Node000001" title="Swap y&#45;values with y&#45;errors (x&#45;errors become new y&#45;errors, zeroed)." alt="" coords="192,5,305,31"/>
+<area shape="rect" id="Node000002" href="$TGraphErrorsOperator_8cxx.html#ab868d45a962ab72a56576d6d0869a4c3" title="Shift graph by c times its errors: ." alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,145,21,145,15,178,15"/>
+</map>

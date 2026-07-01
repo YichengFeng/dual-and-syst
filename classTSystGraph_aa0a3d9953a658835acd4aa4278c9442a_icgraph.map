@@ -1,0 +1,7 @@
+<map id="TSystGraph::select_bin" name="TSystGraph::select_bin">
+<area shape="rect" id="Node000001" title="Select a subset of bins, preserving TDualGraph type." alt="" coords="224,31,395,56"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#ac5a87f0bbb32e87307cce4ee88bae2d4" title="Select a single bin." alt="" coords="5,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,35,176,31,177,25,211,29"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#ac50fddde58b54a78a00719bd50f4ca66" title="Select a contiguous range of bins [bl, bh]." alt="" coords="5,55,176,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,57,177,61,176,55,210,52"/>
+</map>

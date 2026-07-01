@@ -1,0 +1,10 @@
+<map id="TSystGraph::get_stat" name="TSystGraph::get_stat">
+<area shape="rect" id="Node000001" title="Get the statistical&#45;uncertainty TGraphErrors (syncs if needed)." alt="" coords="5,29,164,55"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a6d79f1d0fb9f9ac9afe57298543adec6" title="Trigger calc() only if ROOT graphs are not up to date." alt="" coords="212,22,359,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,39,198,39,198,45,164,45"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a03ad308f8240ea6cbc50d17b4c508fbf" title="Evaluate systematics for all variations." alt="" coords="407,29,537,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="359,39,393,39,393,45,359,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="441,31,435,21,438,11,451,5,472,3,497,6,508,15,505,19,495,11,472,8,453,10,442,15,440,20,446,28"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a4fa97187927f3822a131ae3539375884" title="Get the list of all variation IDs." alt="" coords="585,29,731,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="537,39,571,39,571,45,537,45"/>
+</map>

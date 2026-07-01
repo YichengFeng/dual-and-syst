@@ -1,0 +1,7 @@
+<map id="TSystGraph::shift_x" name="TSystGraph::shift_x">
+<area shape="rect" id="Node000001" title="Shift ROOT graph x&#45;values to match internal DualGraph x&#45;values." alt="" coords="236,31,384,56"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a1f39b4faa3c97b3fc12cecc0db070450" title="Shift ROOT graph x&#45;values by an additive offset dx." alt="" coords="23,5,171,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,36,171,29,171,24,222,30"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#ab5736990c1487fe5043cc6d604c00f4c" title="Write individual ROOT output graphs for quick plotting." alt="" coords="5,55,188,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,56,188,60,188,54,222,51"/>
+</map>

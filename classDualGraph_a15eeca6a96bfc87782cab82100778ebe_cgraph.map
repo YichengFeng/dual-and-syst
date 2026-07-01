@@ -1,0 +1,11 @@
+<map id="DualGraph::average_bin_simple" name="DualGraph::average_bin_simple">
+<area shape="rect" id="Node000001" title="Simple (equal&#45;weight) average merge of specified bins." alt="" coords="5,73,157,113"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="212,5,392,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,70,204,39,230,32,232,37,206,45,128,75"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#a11f63d5553904c9d4302859cd8482116" title="Default constructor — empty graph." alt="" coords="218,55,386,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="157,81,204,76,204,81,158,87"/>
+<area shape="rect" id="Node000004" href="$classDualMultiv.html#a9b9e673d54196a41b27da42b8bee4733" title="Set the partial derivative for variable id." alt="" coords="205,104,399,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="158,98,192,102,191,107,157,104"/>
+<area shape="rect" id="Node000005" href="$classDualMultiv.html#a23bda58a34a24c4f1b45e3587abee424" title="Set the value." alt="" coords="221,153,383,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="131,110,206,138,236,147,235,152,204,143,130,115"/>
+</map>

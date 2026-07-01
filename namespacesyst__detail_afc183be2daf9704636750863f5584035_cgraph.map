@@ -1,0 +1,9 @@
+<map id="syst_detail::apply_binary" name="syst_detail::apply_binary">
+<area shape="rect" id="Node000001" title="Apply a binary operator to two SystGraphs, aligning variations by vid." alt="" coords="5,47,143,87"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a4859f808e0df3bb41c656498db4c9b1b" title="Add a variation with a specific vid." alt="" coords="201,5,350,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,48,209,31,210,37,144,53"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a9217d06c514a04d5a7325429d3651e03" title="Get the default graph (const)." alt="" coords="202,55,349,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,65,188,65,188,70,143,70"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a37ec825c3397bee13e36262ada7e13f9" title="Get the full variation map (const)." alt="" coords="191,104,360,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="144,82,210,98,209,103,143,87"/>
+</map>

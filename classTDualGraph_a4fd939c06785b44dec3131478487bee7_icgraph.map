@@ -1,0 +1,19 @@
+<map id="TDualGraph::set_derivative" name="TDualGraph::set_derivative">
+<area shape="rect" id="Node000001" title="Set derivatives from a TH1 histogram (specific systematic ID)." alt="" coords="253,179,453,204"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#a4e518981d29dfa920a31bd2f1709f43e" title=" " alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="333,169,281,106,244,73,204,44,179,33,181,28,207,40,248,68,284,103,338,166"/>
+<area shape="rect" id="Node000003" href="$classTDualGraph.html#a9a230bb2ab6b18ea253122d5ec1d1cfc" title="Set derivatives from a TH1 (auto ID, preserve x/y)." alt="" coords="5,55,205,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="325,172,272,132,204,94,173,83,174,78,206,89,274,128,328,168"/>
+<area shape="rect" id="Node000004" href="$classTDualGraph.html#a64d92ebe2787e39534e51f226db88206" title=" " alt="" coords="5,104,205,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="304,176,205,143,162,132,163,127,206,138,306,171"/>
+<area shape="rect" id="Node000005" href="$classTDualGraph.html#a92ee4843a788fb1ea555e000e5fa19ce" title="Set derivatives from a TH1 (specific ID, preserve x/y values)." alt="" coords="5,153,205,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="240,182,205,179,206,174,240,177"/>
+<area shape="rect" id="Node000006" href="$classTDualGraph.html#a7e07d9707586ef112b1cff325c830509" title="Construct from a TGraphErrors." alt="" coords="13,203,197,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="240,205,198,209,197,204,240,200"/>
+<area shape="rect" id="Node000007" href="$classTDualGraph.html#ad5f22683be918afc719335cd90c06548" title="Construct from a TH1 histogram." alt="" coords="13,252,197,277"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="303,211,206,242,160,254,158,249,205,237,302,206"/>
+<area shape="rect" id="Node000008" href="$classTDualGraph.html#acbfaa0af63539031d26d2774227c94c8" title="Construct from a TGraphErrors with explicit systematic ID." alt="" coords="13,301,197,327"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="328,214,274,253,206,291,170,304,168,299,204,286,271,249,325,210"/>
+<area shape="rect" id="Node000009" href="$classTDualGraph.html#aa7213b01aeb659b674706038daf6a6c9" title="Construct from a TH1 with explicit systematic ID." alt="" coords="13,351,197,376"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="337,217,284,279,247,312,207,340,177,353,175,348,204,336,244,308,280,275,333,213"/>
+</map>

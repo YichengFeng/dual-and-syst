@@ -1,0 +1,5 @@
+<map id="TDualGraph::get_graph" name="TDualGraph::get_graph">
+<area shape="rect" id="Node000001" title="Get the ROOT TGraphErrors mirror (const)." alt="" coords="248,5,420,31"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#ab2193943a2ce297d34d1ab45aa5bd6c4" title="Write default and variation graphs as plain TGraphErrors." alt="" coords="5,5,200,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,21,200,21,200,15,234,15"/>
+</map>

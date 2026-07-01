@@ -1,0 +1,9 @@
+<map id="GraphShiftX" name="GraphShiftX">
+<area shape="rect" id="Node000001" title="Shift x&#45;values of a TGraphErrors in&#45;place by c." alt="" coords="152,55,251,80"/>
+<area shape="rect" id="Node000002" href="$TGraphErrorsOperator_8cxx.html#a3976accc2ee394dcb7360702e31533d7" title="Shift x&#45;values of a TGraphAsymmErrors in&#45;place to 0." alt="" coords="5,5,104,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,53,93,33,94,28,151,48"/>
+<area shape="rect" id="Node000003" href="$TGraphErrorsOperator_8cxx.html#ab055631bcdd3c54014f617a5bfa8b110" title="Shift x&#45;values of a TGraphErrors in&#45;place to 0 (reference overload)." alt="" coords="5,55,104,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,70,104,70,104,65,138,65"/>
+<area shape="rect" id="Node000004" href="$TGraphErrorsOperator_8cxx.html#aae6907e15d5e9f6fe265dd58de942b87" title="Shift x&#45;values of a TGraphErrors in&#45;place to 0." alt="" coords="5,104,104,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="151,87,94,106,93,101,149,82"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ClassImp" name="ClassImp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,88,56"/>
+<area shape="rect" id="Node000002" href="$classDualPoint.html#ab8f4030fc2419627c16f20677dec05f1" title="Get the y&#45;coordinate (const)." alt="" coords="164,5,301,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,35,150,27,151,32,89,40"/>
+<area shape="rect" id="Node000003" href="$classDualMultiv.html#a9b9e673d54196a41b27da42b8bee4733" title="Set the partial derivative for variable id." alt="" coords="136,55,329,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,46,123,50,122,56,88,51"/>
+</map>

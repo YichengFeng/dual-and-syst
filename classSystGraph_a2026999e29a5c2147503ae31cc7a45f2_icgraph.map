@@ -1,0 +1,10 @@
+<map id="SystGraph::evaluate_systematics" name="SystGraph::evaluate_systematics">
+<area shape="rect" id="Node000001" title="Evaluate systematics for all variations." alt="" coords="379,29,533,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="490,18,478,11,456,8,437,10,425,15,421,21,423,28,418,30,416,20,422,11,436,5,456,3,480,6,492,13"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#aef29bdd20d599f1f8c6a4736b7bdbb7d" title="Evaluate systematics for specified vids and sync ROOT graphs." alt="" coords="190,11,321,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="364,40,320,35,321,30,365,35"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#aca04e00b1a8110b5b95b4b24ad44f49a" title="Generate a LaTeX tabular of systematic uncertainties." alt="" coords="180,61,331,86"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="365,63,331,67,331,62,364,58"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a9b00d602da97e0ba05d92a75d73f8e46" title="Print the LaTeX table to stdout." alt="" coords="5,61,132,86"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="166,76,132,76,132,71,166,71"/>
+</map>

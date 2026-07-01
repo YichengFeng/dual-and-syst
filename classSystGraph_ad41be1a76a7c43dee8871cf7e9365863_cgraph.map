@@ -1,0 +1,5 @@
+<map id="SystGraph::erase_var" name="SystGraph::erase_var">
+<area shape="rect" id="Node000001" title="Remove multiple variations by vid." alt="" coords="5,5,167,31"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a54f090cd51cf4e4f4430b8e03486b52a" title="Remove a single variation by vid." alt="" coords="215,5,376,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,15,201,15,201,21,167,21"/>
+</map>

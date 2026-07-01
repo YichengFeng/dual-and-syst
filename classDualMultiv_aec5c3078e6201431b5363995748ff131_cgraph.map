@@ -1,0 +1,5 @@
+<map id="DualMultiv::get_part" name="DualMultiv::get_part">
+<area shape="rect" id="Node000001" title="Extract a single&#45;variable DualNumber for variable id." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$classDualMultiv.html#a1090f4c8c2376e665e2ca3d786a38251" title="Get the partial derivative for variable id." alt="" coords="208,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,15,194,15,194,21,160,21"/>
+</map>

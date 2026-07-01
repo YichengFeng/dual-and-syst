@@ -1,0 +1,11 @@
+<map id="ValueErrors::print_err1" name="ValueErrors::print_err1">
+<area shape="rect" id="Node000001" title="Print value ± statistical error." alt="" coords="440,55,607,80"/>
+<area shape="rect" id="Node000002" href="$classValueErrors.html#ac4b8634d6df8245e2ecf5cb5691b6cfd" title="Print the value with errors in the requested format." alt="" coords="240,5,375,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,54,363,33,364,28,455,49"/>
+<area shape="rect" id="Node000003" href="$classDualMultiv.html#a91fc7aad0e89dc712506d54f293a27fa" title="LaTeX / ROOT formatted output via ValueErrors." alt="" coords="229,55,386,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,70,386,70,386,65,426,65"/>
+<area shape="rect" id="Node000004" href="$classDualNumber.html#a19e1244aed40e1f77d55cd00603e0470" title="Static helper: format value and error via ValueErrors." alt="" coords="223,104,392,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="455,86,364,107,363,101,453,80"/>
+<area shape="rect" id="Node000005" href="$classDualNumber.html#a1c62f5e4b09348a4a58de02bb019f458" title="Format this dual number via ValueErrors." alt="" coords="5,104,175,129"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="209,119,175,119,175,114,209,114"/>
+</map>

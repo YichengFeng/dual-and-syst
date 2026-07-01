@@ -1,0 +1,23 @@
+<map id="TSystGraph::str_latex" name="TSystGraph::str_latex">
+<area shape="rect" id="Node000001" title="LaTeX&#45;formatted value with stat+syst uncertainties at index i." alt="" coords="5,187,168,212"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a6d79f1d0fb9f9ac9afe57298543adec6" title="Trigger calc() only if ROOT graphs are not up to date." alt="" coords="244,22,391,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,185,145,134,178,105,215,78,239,65,242,70,217,83,181,109,148,138,101,188"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="467,112,647,137"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="102,184,151,152,182,136,215,123,276,112,338,106,453,109,453,114,338,112,277,117,217,129,184,140,153,156,105,189"/>
+<area shape="rect" id="Node000006" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="237,137,397,163"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="146,184,243,163,245,168,147,189"/>
+<area shape="rect" id="Node000007" href="$classDualPoint.html#ab8f4030fc2419627c16f20677dec05f1" title="Get the y&#45;coordinate (const)." alt="" coords="249,187,386,212"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="168,197,235,197,235,202,168,202"/>
+<area shape="rect" id="Node000008" href="$classDualMultiv.html#a10ee02e0d60f56739aea926bb9ed00cf" title="Compute the total uncertainty via quadrature sum." alt="" coords="216,236,419,261"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="147,209,245,230,243,236,146,215"/>
+<area shape="rect" id="Node000009" href="$classDualMultiv.html#a01fd675a02feef1ef7e7ea6a907fd0f5" title="Get the value." alt="" coords="235,285,399,311"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="108,210,156,241,217,272,238,279,237,284,215,276,153,245,105,215"/>
+<area shape="rect" id="Node000010" href="$classValueErrors.html#a42647ccfdc55974dbd7fc22578826366" title="Print value ± stat _{&#45;sysL}^{+sysH}." alt="" coords="234,335,401,360"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="99,210,146,265,180,295,217,321,231,327,229,332,215,326,176,299,142,268,95,214"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a03ad308f8240ea6cbc50d17b4c508fbf" title="Evaluate systematics for all variations." alt="" coords="491,29,622,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,39,478,39,478,45,391,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="522,31,515,21,519,11,533,5,557,3,586,6,598,15,594,20,584,11,557,8,534,10,522,15,520,20,526,28"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a4fa97187927f3822a131ae3539375884" title="Get the list of all variation IDs." alt="" coords="695,29,840,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="622,39,681,39,681,45,622,45"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="397,139,453,133,453,138,398,144"/>
+</map>

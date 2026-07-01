@@ -1,0 +1,11 @@
+<map id="operator+" name="operator+">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,93,80"/>
+<area shape="rect" id="Node000002" href="$namespacesyst__detail.html#a74c457bb529d8995b05fb8d534731ac3" title="Apply a unary operator to a SystGraph (default + all variations)." alt="" coords="141,47,279,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,65,127,65,127,70,93,70"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a4859f808e0df3bb41c656498db4c9b1b" title="Add a variation with a specific vid." alt="" coords="337,5,486,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="279,48,345,31,346,37,280,53"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a9217d06c514a04d5a7325429d3651e03" title="Get the default graph (const)." alt="" coords="338,55,485,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="279,65,324,65,324,70,279,70"/>
+<area shape="rect" id="Node000005" href="$classSystGraph.html#a37ec825c3397bee13e36262ada7e13f9" title="Get the full variation map (const)." alt="" coords="327,104,496,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="280,82,346,98,345,103,279,87"/>
+</map>

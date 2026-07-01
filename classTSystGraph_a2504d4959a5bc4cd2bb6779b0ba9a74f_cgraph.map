@@ -1,0 +1,6 @@
+<map id="TSystGraph::add_var" name="TSystGraph::add_var">
+<area shape="rect" id="Node000001" title="Add a TSystVariation with auto&#45;assigned vid." alt="" coords="5,29,163,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,31,41,21,45,11,59,5,84,3,114,6,126,15,123,20,112,11,84,8,61,10,48,15,46,20,52,28"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#aae75417670659dd6e1f09d5513501ea5" title="Allocate a new unique variation ID." alt="" coords="211,29,397,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="163,39,197,39,197,45,163,45"/>
+</map>

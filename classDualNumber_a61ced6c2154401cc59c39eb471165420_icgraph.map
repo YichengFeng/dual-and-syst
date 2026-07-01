@@ -1,0 +1,39 @@
+<map id="DualNumber::get_value" name="DualNumber::get_value">
+<area shape="rect" id="Node000001" title="Get the value." alt="" coords="659,195,835,220"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#aef29bdd20d599f1f8c6a4736b7bdbb7d" title="Evaluate systematics for specified vids and sync ROOT graphs." alt="" coords="469,71,599,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,188,670,148,609,110,583,99,585,94,612,105,674,144,723,183"/>
+<area shape="rect" id="Node000003" href="$TSystGraph_8cxx.html#afa5d5809cac02b42697476f05dde4593" title=" " alt="" coords="493,120,575,145"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="699,192,610,159,575,148,576,142,612,154,701,187"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#a27c2180771e155a5db4bd8cff75510a3" title="Set the default graph from a DualGraph." alt="" coords="457,169,611,195"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="644,198,611,194,612,189,645,193"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#a31ed4f10af026a6f29ab49fc2e72bc1d" title="Set the default graph from a TDualGraph. Auto&#45;computes width_ from the first two x&#45;values." alt="" coords="457,219,611,244"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="645,222,612,225,611,220,644,216"/>
+<area shape="rect" id="Node000015" href="$classTSystGraph.html#a79d00b849585f23e66eb008899e6b582" title="Shift ROOT graph x&#45;values to match internal DualGraph x&#45;values." alt="" coords="460,367,608,392"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="720,231,553,368,550,364,717,227"/>
+<area shape="rect" id="Node000018" href="$classSystGraph.html#aca04e00b1a8110b5b95b4b24ad44f49a" title="Generate a LaTeX tabular of systematic uncertainties." alt="" coords="459,440,609,465"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="735,233,686,314,652,361,613,405,587,426,561,442,558,438,584,422,609,401,648,358,682,311,730,230"/>
+<area shape="rect" id="Node000006" href="$classTSystGraph.html#aec3311499041bdcf701638440f00db48" title="Weighted average over bins, preserving TDualGraph type." alt="" coords="224,5,409,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="462,213,455,208,440,187,433,166,431,124,430,84,422,65,407,45,390,33,393,28,411,41,427,62,435,83,437,124,438,165,445,184,459,204,465,209"/>
+<area shape="rect" id="Node000007" href="$classTSystGraph.html#ac4d4d9f983163e527b1a0ea1503c1ec5" title="Equal&#45;weight average over bins, preserving TDualGraph type." alt="" coords="237,55,396,95"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="464,214,455,208,437,183,431,157,425,133,407,109,391,98,394,93,411,105,429,131,436,156,442,180,459,204,467,210"/>
+<area shape="rect" id="Node000008" href="$classTSystGraph.html#af65a860fd9b2b18546af50893a2c4491" title="Extract a subset of variations, preserving TDualGraph types." alt="" coords="239,120,395,145"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="470,216,456,208,441,195,431,183,422,170,408,159,383,148,385,143,411,154,426,167,436,179,445,192,459,204,473,211"/>
+<area shape="rect" id="Node000009" href="$classTSystGraph.html#aa0a3d9953a658835acd4aa4278c9442a" title="Select a subset of bins, preserving TDualGraph type." alt="" coords="231,169,402,195"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="464,218,373,197,374,192,465,213"/>
+<area shape="rect" id="Node000012" href="$classTSystGraph.html#a617d7a12f3d65710866de5600cb83ef0" title="Construct with a default TDualGraph." alt="" coords="227,219,407,244"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="444,234,407,234,407,229,444,229"/>
+<area shape="rect" id="Node000013" href="$classTSystGraph.html#a76d1d195092a975e2f4af683cf28a095" title="Construct with default and variation map." alt="" coords="227,268,407,293"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="465,250,374,271,373,265,464,244"/>
+<area shape="rect" id="Node000014" href="$classTSystGraph.html#ac886663028a2c5b1b0f23b783f06bff6" title="Construct with a default TGraphErrors." alt="" coords="227,317,407,343"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="505,254,461,281,410,307,374,320,372,315,408,302,458,277,502,250"/>
+<area shape="rect" id="Node000010" href="$classTSystGraph.html#ac5a87f0bbb32e87307cce4ee88bae2d4" title="Select a single bin." alt="" coords="5,145,176,171"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="217,174,176,170,176,164,218,169"/>
+<area shape="rect" id="Node000011" href="$classTSystGraph.html#ac50fddde58b54a78a00719bd50f4ca66" title="Select a contiguous range of bins [bl, bh]." alt="" coords="5,195,176,220"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="218,196,176,200,176,195,217,190"/>
+<area shape="rect" id="Node000016" href="$classTSystGraph.html#a1f39b4faa3c97b3fc12cecc0db070450" title="Shift ROOT graph x&#45;values by an additive offset dx." alt="" coords="243,367,391,392"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="446,382,391,382,391,377,446,377"/>
+<area shape="rect" id="Node000017" href="$classTSystGraph.html#ab5736990c1487fe5043cc6d604c00f4c" title="Write individual ROOT output graphs for quick plotting." alt="" coords="225,416,408,441"/>
+<area shape="poly" id="edge16_Node000015_Node000017" title=" " alt="" coords="465,398,374,419,373,413,464,392"/>
+<area shape="rect" id="Node000019" href="$classSystGraph.html#a9b00d602da97e0ba05d92a75d73f8e46" title="Print the LaTeX table to stdout." alt="" coords="253,465,380,491"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="445,466,381,473,380,468,445,460"/>
+</map>

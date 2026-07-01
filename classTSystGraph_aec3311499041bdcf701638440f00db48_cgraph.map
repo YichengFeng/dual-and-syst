@@ -1,0 +1,26 @@
+<map id="TSystGraph::average_bin" name="TSystGraph::average_bin">
+<area shape="rect" id="Node000001" title="Weighted average over bins, preserving TDualGraph type." alt="" coords="5,214,191,240"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a338775af3777490adcf2f280702dad22" title="Weighted&#45;average merge of specified bins (inverse&#45;variance weights)." alt="" coords="239,116,417,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,212,283,144,286,149,130,217"/>
+<area shape="rect" id="Node000008" href="$classTSystGraph.html#a31ed4f10af026a6f29ab49fc2e72bc1d" title="Set the default graph from a TDualGraph. Auto&#45;computes width_ from the first two x&#45;values." alt="" coords="251,288,405,313"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="140,237,275,281,274,286,138,242"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="716,140,896,165"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,114,390,68,425,44,464,26,521,9,567,3,613,8,669,26,707,46,741,73,790,127,786,131,737,77,704,51,667,31,612,13,567,8,522,15,466,31,428,48,393,72,343,118"/>
+<area shape="rect" id="Node000004" href="$classDualGraph.html#a11f63d5553904c9d4302859cd8482116" title="Default constructor — empty graph." alt="" coords="483,41,651,66"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="359,113,465,75,493,67,495,72,466,80,361,118"/>
+<area shape="rect" id="Node000005" href="$classDualMultiv.html#a10ee02e0d60f56739aea926bb9ed00cf" title="Compute the total uncertainty via quadrature sum." alt="" coords="465,90,668,116"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="417,116,452,112,452,118,418,121"/>
+<area shape="rect" id="Node000006" href="$classDualMultiv.html#a9b9e673d54196a41b27da42b8bee4733" title="Set the partial derivative for variable id." alt="" coords="470,140,663,165"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="418,135,457,139,456,144,417,140"/>
+<area shape="rect" id="Node000007" href="$classDualMultiv.html#a23bda58a34a24c4f1b45e3587abee424" title="Set the value." alt="" coords="485,189,648,214"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="363,138,466,174,499,183,497,188,465,179,362,144"/>
+<area shape="rect" id="Node000009" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="499,238,634,264"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="390,285,491,264,492,269,391,290"/>
+<area shape="rect" id="Node000010" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="487,288,647,313"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="405,298,473,298,473,303,405,303"/>
+<area shape="rect" id="Node000011" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="498,337,635,362"/>
+<area shape="poly" id="edge11_Node000008_Node000011" title=" " alt="" coords="391,310,492,332,491,337,390,316"/>
+<area shape="rect" id="Node000012" href="$classDualNumber.html#a61ced6c2154401cc59c39eb471165420" title="Get the value." alt="" coords="479,386,655,412"/>
+<area shape="poly" id="edge12_Node000008_Node000012" title=" " alt="" coords="350,311,402,342,466,372,489,380,487,385,464,377,399,346,347,315"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="636,285,667,273,702,250,734,224,783,174,787,178,737,228,705,255,669,277,638,290"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="SystGraph::set_def" name="SystGraph::set_def">
+<area shape="rect" id="Node000001" title="Set the default graph." alt="" coords="231,63,376,88"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a97df4f6135c06b15376a1f1e9e3185b4" title="Weighted average over specified bins for default and all variations." alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,62,140,33,142,28,244,56"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#aadefb73183bc3351ec69e55c85d838ba" title="Equal&#45;weight average over specified bins." alt="" coords="19,55,169,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,78,169,78,169,73,217,73"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a3e2ee69ca7e82eeb2a67150f6b91021e" title="Select a subset of bins for default and all variations." alt="" coords="13,120,175,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,94,142,123,140,117,242,89"/>
+</map>

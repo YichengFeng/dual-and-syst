@@ -1,0 +1,23 @@
+<map id="DualMultiv::get_uncertainty" name="DualMultiv::get_uncertainty">
+<area shape="rect" id="Node000001" title="Compute the total uncertainty via quadrature sum." alt="" coords="485,193,688,219"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a338775af3777490adcf2f280702dad22" title="Weighted&#45;average merge of specified bins (inverse&#45;variance weights)." alt="" coords="249,29,427,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="565,184,511,126,476,95,436,68,410,57,412,52,439,64,479,90,515,122,569,181"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#aef29bdd20d599f1f8c6a4736b7bdbb7d" title="Evaluate systematics for specified vids and sync ROOT graphs." alt="" coords="273,79,403,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="555,188,501,153,436,119,399,107,401,102,438,114,504,148,558,183"/>
+<area shape="rect" id="Node000006" href="$classSystGraph.html#ac37d7de0637f0c48f4607535d319ee23" title="Evaluate systematics for a specified subset of vids." alt="" coords="261,129,415,169"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="517,193,415,169,416,164,518,188"/>
+<area shape="rect" id="Node000007" href="$classDualMultiv.html#a91fc7aad0e89dc712506d54f293a27fa" title="LaTeX / ROOT formatted output via ValueErrors." alt="" coords="259,193,417,219"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="472,209,417,209,417,203,472,203"/>
+<area shape="rect" id="Node000008" href="$classTSystGraph.html#a1c18ce27f4f63851f82b0b858978c8f3" title="LaTeX&#45;formatted value with stat+syst uncertainties at index i." alt="" coords="257,243,419,268"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="509,224,403,245,402,240,508,219"/>
+<area shape="rect" id="Node000009" href="$classSystGraph.html#aca04e00b1a8110b5b95b4b24ad44f49a" title="Generate a LaTeX tabular of systematic uncertainties." alt="" coords="263,292,413,317"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="554,228,500,256,438,283,401,294,400,289,436,278,498,251,551,223"/>
+<area shape="rect" id="Node000011" href="$classTSystGraph.html#afcc068063e7d974e5479e750b3c654cc" title="Get a ValueErrors object for bin i with stat and syst." alt="" coords="239,341,437,367"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="567,231,512,282,477,309,439,332,410,344,408,339,436,328,474,305,509,278,563,227"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a97df4f6135c06b15376a1f1e9e3185b4" title="Weighted average over specified bins for default and all variations." alt="" coords="9,5,187,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,34,187,30,187,24,235,29"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#aec3311499041bdcf701638440f00db48" title="Weighted average over bins, preserving TDualGraph type." alt="" coords="5,55,191,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="235,55,191,60,191,55,235,50"/>
+<area shape="rect" id="Node000010" href="$classSystGraph.html#a9b00d602da97e0ba05d92a75d73f8e46" title="Print the LaTeX table to stdout." alt="" coords="35,292,161,317"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="249,307,162,307,162,302,249,302"/>
+</map>

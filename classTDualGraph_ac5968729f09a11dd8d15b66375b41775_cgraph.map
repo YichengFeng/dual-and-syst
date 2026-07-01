@@ -1,0 +1,5 @@
+<map id="TDualGraph::shift_x" name="TDualGraph::shift_x">
+<area shape="rect" id="Node000001" title="Shift graph x&#45;values to match the internal DualGraph points." alt="" coords="5,5,156,31"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#aa250d8a89fb2970c57f8e24ab756e692" title="Synchronize the ROOT TGraphErrors mirror from the internal DualGraph points. Sets is_updated_ to true..." alt="" coords="204,5,337,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,15,190,15,190,21,156,21"/>
+</map>

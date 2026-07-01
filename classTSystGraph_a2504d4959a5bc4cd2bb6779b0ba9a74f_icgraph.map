@@ -1,0 +1,8 @@
+<map id="TSystGraph::add_var" name="TSystGraph::add_var">
+<area shape="rect" id="Node000001" title="Add a TSystVariation with auto&#45;assigned vid." alt="" coords="233,31,391,56"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="351,21,340,13,312,9,289,11,277,16,274,22,281,29,277,32,269,22,273,12,288,6,312,4,342,8,354,17"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#af65a860fd9b2b18546af50893a2c4491" title="Extract a subset of variations, preserving TDualGraph types." alt="" coords="17,5,173,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="219,35,173,30,174,24,220,30"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a76d1d195092a975e2f4af683cf28a095" title="Construct with default and variation map." alt="" coords="5,55,185,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="220,56,186,60,185,55,219,51"/>
+</map>

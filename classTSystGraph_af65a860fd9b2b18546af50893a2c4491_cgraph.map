@@ -1,0 +1,20 @@
+<map id="TSystGraph::get_sub" name="TSystGraph::get_sub">
+<area shape="rect" id="Node000001" title="Extract a subset of variations, preserving TDualGraph types." alt="" coords="5,80,161,105"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a2504d4959a5bc4cd2bb6779b0ba9a74f" title="Add a TSystVariation with auto&#45;assigned vid." alt="" coords="209,31,367,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,77,221,57,222,62,137,83"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#a31ed4f10af026a6f29ab49fc2e72bc1d" title="Set the default graph from a TDualGraph. Auto&#45;computes width_ from the first two x&#45;values." alt="" coords="211,104,365,129"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="162,99,198,103,197,109,161,104"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="255,32,248,22,251,12,265,6,288,4,316,8,328,17,324,21,314,13,288,9,266,11,255,16,253,22,259,29"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#aae75417670659dd6e1f09d5513501ea5" title="Allocate a new unique variation ID." alt="" coords="415,5,601,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="367,32,401,28,401,33,367,37"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="441,55,575,80"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="345,101,437,80,438,86,346,107"/>
+<area shape="rect" id="Node000006" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="428,104,588,129"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="365,114,414,114,414,119,365,119"/>
+<area shape="rect" id="Node000008" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="439,153,577,179"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="346,127,438,148,437,153,345,132"/>
+<area shape="rect" id="Node000009" href="$classDualNumber.html#a61ced6c2154401cc59c39eb471165420" title="Get the value." alt="" coords="420,203,596,228"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="309,127,356,157,416,188,440,196,438,201,414,192,354,162,306,132"/>
+<area shape="rect" id="Node000007" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="649,104,829,129"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="588,114,635,114,635,119,588,119"/>
+</map>

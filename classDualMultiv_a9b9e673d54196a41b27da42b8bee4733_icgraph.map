@@ -1,0 +1,19 @@
+<map id="DualMultiv::set_derivative" name="DualMultiv::set_derivative">
+<area shape="rect" id="Node000001" title="Set the partial derivative for variable id." alt="" coords="465,141,659,167"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a338775af3777490adcf2f280702dad22" title="Weighted&#45;average merge of specified bins (inverse&#45;variance weights)." alt="" coords="239,55,417,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="520,138,416,95,377,83,378,78,418,90,522,133"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#a15eeca6a96bfc87782cab82100778ebe" title="Simple (equal&#45;weight) average merge of specified bins." alt="" coords="252,105,404,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="451,143,404,137,404,131,452,138"/>
+<area shape="rect" id="Node000008" href="$TDualGraph_8cxx.html#ac0eecbe0fa02e739b0d274dc67778c6d" title=" " alt="" coords="287,169,369,195"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="452,170,370,180,369,174,452,165"/>
+<area shape="rect" id="Node000009" href="$TSystGraph_8cxx.html#afa5d5809cac02b42697476f05dde4593" title=" " alt="" coords="287,219,369,244"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="517,174,418,210,370,224,369,219,417,205,516,169"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a97df4f6135c06b15376a1f1e9e3185b4" title="Weighted average over specified bins for default and all variations." alt="" coords="9,5,187,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,54,158,33,159,28,256,49"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#aec3311499041bdcf701638440f00db48" title="Weighted average over bins, preserving TDualGraph type." alt="" coords="5,55,191,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="225,70,191,70,191,65,225,65"/>
+<area shape="rect" id="Node000006" href="$classSystGraph.html#aadefb73183bc3351ec69e55c85d838ba" title="Equal&#45;weight average over specified bins." alt="" coords="23,105,173,145"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="238,127,174,127,174,122,238,122"/>
+<area shape="rect" id="Node000007" href="$classTSystGraph.html#ac4d4d9f983163e527b1a0ea1503c1ec5" title="Equal&#45;weight average over bins, preserving TDualGraph type." alt="" coords="19,169,177,209"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="243,151,171,171,170,166,242,146"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="TSystGraph::shift_x" name="TSystGraph::shift_x">
+<area shape="rect" id="Node000001" title="Shift ROOT graph x&#45;values to match internal DualGraph x&#45;values." alt="" coords="5,136,153,161"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a6d79f1d0fb9f9ac9afe57298543adec6" title="Trigger calc() only if ROOT graphs are not up to date." alt="" coords="216,22,363,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,134,143,104,200,72,215,65,217,70,203,76,146,108,100,138"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="222,87,357,112"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="133,133,221,113,222,118,135,139"/>
+<area shape="rect" id="Node000006" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="209,136,369,161"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="154,146,196,146,196,151,154,151"/>
+<area shape="rect" id="Node000008" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="221,185,358,211"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="135,159,222,180,221,185,133,164"/>
+<area shape="rect" id="Node000009" href="$classDualNumber.html#a61ced6c2154401cc59c39eb471165420" title="Get the value." alt="" coords="201,235,377,260"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="99,159,145,190,202,221,221,228,219,233,200,226,142,194,96,164"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a03ad308f8240ea6cbc50d17b4c508fbf" title="Evaluate systematics for all variations." alt="" coords="450,29,581,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="363,39,436,39,436,45,363,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="481,31,473,21,477,11,492,5,515,3,545,6,556,15,553,20,543,11,515,8,493,10,481,15,479,20,485,28"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a4fa97187927f3822a131ae3539375884" title="Get the list of all variation IDs." alt="" coords="653,29,799,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="581,39,640,39,640,45,581,45"/>
+<area shape="rect" id="Node000007" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="425,136,605,161"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="369,146,412,146,412,151,369,151"/>
+</map>

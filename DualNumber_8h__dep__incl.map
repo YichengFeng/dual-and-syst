@@ -1,0 +1,19 @@
+<map id="DualNumber.h" name="DualNumber.h">
+<area shape="rect" id="Node000001" title="Single&#45;variable dual number for first&#45;order automatic differentiation." alt="" coords="75,5,190,31"/>
+<area shape="rect" id="Node000002" href="$DualGraph_8h.html" title="Core graph classes for dual&#45;number uncertainty propagation (ROOT&#45;independent)." alt="" coords="81,152,184,177"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,44,117,79,116,99,119,119,130,151,125,153,114,120,111,99,111,78,121,43"/>
+<area shape="rect" id="Node000008" href="$DualMultiv_8h.html" title="Multi&#45;variable dual number for first&#45;order automatic differentiation." alt="" coords="126,79,230,104"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="150,41,173,77,168,80,145,44"/>
+<area shape="rect" id="Node000003" href="$SystGraph_8h.html" title="Systematic&#45;uncertainty graph class (ROOT&#45;independent base)." alt="" coords="17,225,118,251"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,189,80,227,76,223,111,186"/>
+<area shape="rect" id="Node000006" href="$TDualGraph_8h.html" title="ROOT&#45;aware DualGraph with TGraphErrors mirror, I/O, and plotting." alt="" coords="143,225,253,251"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="155,186,189,223,185,227,151,189"/>
+<area shape="rect" id="Node000004" href="$TSystGraph_8h.html" title="ROOT&#45;aware systematic&#45;uncertainty graph with plotting and I/O." alt="" coords="13,299,122,324"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="70,264,70,299,65,299,65,264"/>
+<area shape="rect" id="Node000005" href="$TSystGraph_8cxx.html" title=" " alt="" coords="5,372,129,397"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="70,338,70,372,65,372,65,338"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="166,260,90,301,87,296,163,255"/>
+<area shape="rect" id="Node000007" href="$TDualGraph_8cxx.html" title=" " alt="" coords="147,299,273,324"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="205,264,211,298,205,299,200,265"/>
+<area shape="poly" id="edge9_Node000008_Node000002" title=" " alt="" coords="165,117,142,153,138,150,161,114"/>
+</map>

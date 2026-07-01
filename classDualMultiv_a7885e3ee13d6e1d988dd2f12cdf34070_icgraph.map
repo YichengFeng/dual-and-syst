@@ -1,0 +1,11 @@
+<map id="DualMultiv::new_id" name="DualMultiv::new_id">
+<area shape="rect" id="Node000001" title="Allocate a new unique variable ID." alt="" coords="247,80,393,105"/>
+<area shape="rect" id="Node000002" href="$classDualMultiv.html#a3e71028f40c9c454887785383165262f" title="Construct from a DualNumber, auto&#45;assigning a new ID." alt="" coords="17,5,187,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="278,77,198,45,159,33,160,28,200,39,280,72"/>
+<area shape="rect" id="Node000003" href="$classDualMultiv.html#a22c9d4da3470d6426b04ba34fa2010df" title="Construct with a value and derivative, auto&#45;assigning a new ID." alt="" coords="17,55,187,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,85,187,80,188,75,233,80"/>
+<area shape="rect" id="Node000004" href="$classDualMultiv.html#a6f3ca63d1be6f6ce265761dbb296e246" title="Set partial derivative from a DualNumber, auto&#45;assigning ID." alt="" coords="5,104,199,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,105,199,109,198,103,233,100"/>
+<area shape="rect" id="Node000005" href="$classDualMultiv.html#abee89672d6953a7e1959d5f7dc1694de" title="Set a partial derivative with auto&#45;assigned ID." alt="" coords="5,153,199,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="278,113,200,143,156,156,155,151,198,138,276,108"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="atan2" name="atan2">
+<area shape="rect" id="Node000001" title="Pointwise vid&#45;aligned atan2 on two SystGraphs." alt="" coords="5,55,64,80"/>
+<area shape="poly" id="edge5_Node000001_Node000001" title=" " alt="" coords="10,56,5,46,8,37,18,30,35,28,55,32,63,40,59,44,52,36,35,33,20,35,12,40,10,46,15,53"/>
+<area shape="rect" id="Node000002" href="$namespacesyst__detail.html#afc183be2daf9704636750863f5584035" title="Apply a binary operator to two SystGraphs, aligning variations by vid." alt="" coords="112,47,249,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,65,99,65,99,70,64,70"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a4859f808e0df3bb41c656498db4c9b1b" title="Add a variation with a specific vid." alt="" coords="307,5,457,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="249,48,315,31,317,37,250,53"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a9217d06c514a04d5a7325429d3651e03" title="Get the default graph (const)." alt="" coords="309,55,455,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="250,65,295,65,295,70,250,70"/>
+<area shape="rect" id="Node000005" href="$classSystGraph.html#a37ec825c3397bee13e36262ada7e13f9" title="Get the full variation map (const)." alt="" coords="297,104,467,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="250,82,317,98,315,103,249,87"/>
+</map>

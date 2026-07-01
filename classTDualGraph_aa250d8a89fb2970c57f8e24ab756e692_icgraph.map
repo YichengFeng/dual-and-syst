@@ -1,0 +1,11 @@
+<map id="TDualGraph::calc" name="TDualGraph::calc">
+<area shape="rect" id="Node000001" title="Synchronize the ROOT TGraphErrors mirror from the internal DualGraph points. Sets is_updated_ to true..." alt="" coords="284,80,417,105"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#af7a22833db483880d9dd9c9ed54a9a87" title="Merge uncertainties: reconstruct from the TGraphErrors including both x and y errors." alt="" coords="5,5,236,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,76,235,45,193,33,194,28,237,39,314,71"/>
+<area shape="rect" id="Node000003" href="$classTDualGraph.html#ac5968729f09a11dd8d15b66375b41775" title="Shift graph x&#45;values to match the internal DualGraph points." alt="" coords="45,55,196,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="270,86,196,78,197,73,270,81"/>
+<area shape="rect" id="Node000004" href="$classTDualGraph.html#acfdcc86f409742953ef329dfb8c832f5" title="Shift graph x&#45;values by dx (additive offset)." alt="" coords="45,104,196,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,104,197,111,196,106,270,98"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#ab2193943a2ce297d34d1ab45aa5bd6c4" title="Write default and variation graphs as plain TGraphErrors." alt="" coords="23,153,218,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="311,114,237,143,190,156,188,151,235,138,309,109"/>
+</map>

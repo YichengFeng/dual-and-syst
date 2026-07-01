@@ -1,0 +1,27 @@
+<map id="DualGraph::check_size" name="DualGraph::check_size">
+<area shape="rect" id="Node000001" title="Check that n matches the number of points. Prints a warning on mismatch." alt="" coords="501,105,672,131"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#a7542c3b3c524ab90c85d3b893121e74b" title="Set derivatives from a TGraphErrors (auto&#45;assigned systematic ID)." alt="" coords="253,31,453,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="542,103,453,70,412,59,413,53,454,65,544,98"/>
+<area shape="rect" id="Node000003" href="$classTDualGraph.html#aefa5525f36d4128d58783b6c9231cac1" title="Set derivatives from a TH1 (auto&#45;assigned systematic ID)." alt="" coords="253,80,453,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="487,110,453,106,454,101,488,105"/>
+<area shape="rect" id="Node000004" href="$classTDualGraph.html#abf948e6abd3bdc9ac94ffb88518304ca" title="Set derivatives from a TGraphErrors (specific systematic ID)." alt="" coords="253,129,453,155"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="488,131,454,134,453,129,487,126"/>
+<area shape="rect" id="Node000005" href="$classTDualGraph.html#a4fd939c06785b44dec3131478487bee7" title="Set derivatives from a TH1 histogram (specific systematic ID)." alt="" coords="253,179,453,204"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="541,138,454,169,409,181,407,176,453,163,540,133"/>
+<area shape="rect" id="Node000006" href="$classTDualGraph.html#a4e518981d29dfa920a31bd2f1709f43e" title=" " alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="259,174,251,168,238,152,231,136,227,104,223,73,216,58,204,44,187,33,189,28,207,40,221,55,228,72,232,104,236,135,243,150,255,164,262,170"/>
+<area shape="rect" id="Node000007" href="$classTDualGraph.html#a9a230bb2ab6b18ea253122d5ec1d1cfc" title="Set derivatives from a TH1 (auto ID, preserve x/y)." alt="" coords="5,55,205,80"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="263,175,252,168,235,149,227,130,220,111,204,93,183,83,186,78,207,89,224,108,232,128,239,146,255,164,266,171"/>
+<area shape="rect" id="Node000008" href="$classTDualGraph.html#a64d92ebe2787e39534e51f226db88206" title=" " alt="" coords="5,104,205,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="279,177,252,168,228,156,204,143,168,132,170,127,206,138,231,151,254,164,281,172"/>
+<area shape="rect" id="Node000009" href="$classTDualGraph.html#a92ee4843a788fb1ea555e000e5fa19ce" title="Set derivatives from a TH1 (specific ID, preserve x/y values)." alt="" coords="5,153,205,179"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="240,182,205,179,206,174,240,177"/>
+<area shape="rect" id="Node000010" href="$classTDualGraph.html#a7e07d9707586ef112b1cff325c830509" title="Construct from a TGraphErrors." alt="" coords="13,203,197,228"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="240,205,198,209,197,204,240,200"/>
+<area shape="rect" id="Node000011" href="$classTDualGraph.html#ad5f22683be918afc719335cd90c06548" title="Construct from a TH1 histogram." alt="" coords="13,252,197,277"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="303,211,206,242,160,254,158,249,205,237,302,206"/>
+<area shape="rect" id="Node000012" href="$classTDualGraph.html#acbfaa0af63539031d26d2774227c94c8" title="Construct from a TGraphErrors with explicit systematic ID." alt="" coords="13,301,197,327"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="328,214,274,253,206,291,170,304,168,299,204,286,271,249,325,210"/>
+<area shape="rect" id="Node000013" href="$classTDualGraph.html#aa7213b01aeb659b674706038daf6a6c9" title="Construct from a TH1 with explicit systematic ID." alt="" coords="13,351,197,376"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="337,217,284,279,247,312,207,340,177,353,175,348,204,336,244,308,280,275,333,213"/>
+</map>

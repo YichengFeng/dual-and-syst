@@ -1,0 +1,5 @@
+<map id="DualGraph::get_point" name="DualGraph::get_point">
+<area shape="rect" id="Node000001" title="Get point at index i (bounds&#45;checked)." alt="" coords="5,5,165,31"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="213,5,393,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,15,200,15,200,21,166,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="DualGraph::average_bin" name="DualGraph::average_bin">
+<area shape="rect" id="Node000001" title="Weighted&#45;average merge of specified bins (inverse&#45;variance weights)." alt="" coords="239,31,417,56"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a97df4f6135c06b15376a1f1e9e3185b4" title="Weighted average over specified bins for default and all variations." alt="" coords="9,5,187,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,35,187,30,187,25,225,29"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#aec3311499041bdcf701638440f00db48" title="Weighted average over bins, preserving TDualGraph type." alt="" coords="5,55,191,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,57,191,60,191,55,224,51"/>
+</map>

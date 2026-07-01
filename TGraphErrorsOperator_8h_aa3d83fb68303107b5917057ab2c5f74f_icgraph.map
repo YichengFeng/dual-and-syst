@@ -1,0 +1,5 @@
+<map id="GraphAveY" name="GraphAveY">
+<area shape="rect" id="Node000001" title="Inverse&#45;variance weighted average over a contiguous y&#45;range." alt="" coords="147,5,240,31"/>
+<area shape="rect" id="Node000002" href="$TGraphErrorsOperator_8cxx.html#a06f377f8aa2417b05fe6a4ed3f703380" title="Average over all bins." alt="" coords="5,5,99,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,21,99,21,99,15,133,15"/>
+</map>

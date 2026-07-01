@@ -1,0 +1,11 @@
+<map id="operator&#45;" name="operator&#45;">
+<area shape="rect" id="Node000001" title="vid&#45;aligned SystGraph &#45; SystGraph." alt="" coords="5,55,88,80"/>
+<area shape="rect" id="Node000002" href="$namespacesyst__detail.html#afc183be2daf9704636750863f5584035" title="Apply a binary operator to two SystGraphs, aligning variations by vid." alt="" coords="136,47,273,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,65,122,65,122,70,88,70"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a4859f808e0df3bb41c656498db4c9b1b" title="Add a variation with a specific vid." alt="" coords="331,5,481,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="273,48,339,31,341,37,274,53"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a9217d06c514a04d5a7325429d3651e03" title="Get the default graph (const)." alt="" coords="333,55,479,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="274,65,319,65,319,70,274,70"/>
+<area shape="rect" id="Node000005" href="$classSystGraph.html#a37ec825c3397bee13e36262ada7e13f9" title="Get the full variation map (const)." alt="" coords="321,104,491,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="274,82,341,98,339,103,273,87"/>
+</map>

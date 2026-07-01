@@ -1,0 +1,5 @@
+<map id="DualGraph::set_points" name="DualGraph::set_points">
+<area shape="rect" id="Node000001" title="Replace all points (virtual — overridden by TDualGraph)." alt="" coords="228,5,395,31"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#a777692a5aee57fabf03080ee6e829b4c" title="Replace all points — invalidates the ROOT mirror." alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,21,180,21,180,15,214,15"/>
+</map>

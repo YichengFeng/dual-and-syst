@@ -1,0 +1,11 @@
+<map id="DualMultiv::set_id_counter" name="DualMultiv::set_id_counter">
+<area shape="rect" id="Node000001" title="Advance the ID counter to at least id." alt="" coords="441,37,580,77"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#ae9f2b3839d95b9b36fbb2d32130ff9eb" title="Sync DualMultiv ID counters after reading from file." alt="" coords="237,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,46,393,41,394,35,428,41"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#a06e763281816a5f15429fb8a1bad796c" title="Sync DualMultiv and SystGraph ID counters after reading from file." alt="" coords="238,69,393,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="428,74,393,79,392,74,427,68"/>
+<area shape="rect" id="Node000003" href="$classTDualGraph.html#a5b0e6c5fc91a672acddf5440297e134b" title="Construct from a pointer (e.g. from TFile::Get) and sync DualMultiv ID counters to prevent collisions..." alt="" coords="5,13,189,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,28,190,28,190,23,223,23"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#adf426e09b33c328f0a262b2c98742e70" title=" " alt="" coords="7,77,187,102"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="224,92,187,92,187,87,224,87"/>
+</map>

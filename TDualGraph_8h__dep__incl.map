@@ -1,0 +1,9 @@
+<map id="TDualGraph.h" name="TDualGraph.h">
+<area shape="rect" id="Node000001" title="ROOT&#45;aware DualGraph with TGraphErrors mirror, I/O, and plotting." alt="" coords="84,5,195,31"/>
+<area shape="rect" id="Node000002" href="$TDualGraph_8cxx.html" title=" " alt="" coords="5,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,43,82,80,78,77,116,39"/>
+<area shape="rect" id="Node000003" href="$TSystGraph_8h.html" title="ROOT&#45;aware systematic&#45;uncertainty graph with plotting and I/O." alt="" coords="157,79,266,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,39,202,77,198,80,159,43"/>
+<area shape="rect" id="Node000004" href="$TSystGraph_8cxx.html" title=" " alt="" coords="149,152,273,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,118,214,152,209,152,209,118"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="syst_detail::apply_binary" name="syst_detail::apply_binary">
+<area shape="rect" id="Node000001" title="Apply a binary operator to two SystGraphs, aligning variations by vid." alt="" coords="141,121,279,161"/>
+<area shape="rect" id="Node000002" href="$SystGraph_8h.html#a61065e0b91b79e7690b37538879d3760" title="Pointwise vid&#45;aligned atan2 on two SystGraphs." alt="" coords="20,29,79,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,115,92,68,73,57,75,52,95,64,169,111"/>
+<area shape="rect" id="Node000003" href="$SystGraph_8h.html#ad3ffecc3c2b21afa7413ee1881ba4dd5" title="vid&#45;aligned SystGraph * SystGraph." alt="" coords="7,79,91,104"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="131,119,91,107,92,101,132,114"/>
+<area shape="rect" id="Node000004" href="$SystGraph_8h.html#a69dba739b45a09c181f6cc138c9af30a" title="vid&#45;aligned SystGraph + SystGraph." alt="" coords="5,128,93,153"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="128,143,94,143,94,138,128,138"/>
+<area shape="rect" id="Node000005" href="$SystGraph_8h.html#afd12db6a020cf6968fa54966ef243ca6" title="vid&#45;aligned SystGraph &#45; SystGraph." alt="" coords="8,177,91,203"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="132,167,92,180,90,175,131,162"/>
+<area shape="rect" id="Node000006" href="$SystGraph_8h.html#a045e5102fd796c35d0911e791a59b74b" title="vid&#45;aligned SystGraph / SystGraph." alt="" coords="9,227,90,252"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="167,170,95,216,74,229,71,224,92,212,165,166"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="77,19,69,11,49,8,33,10,24,15,22,20,27,28,22,31,17,21,20,11,31,5,49,3,71,6,81,15"/>
+</map>

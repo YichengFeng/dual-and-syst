@@ -1,0 +1,8 @@
+<map id="TSystGraph::calc_if_not_updated" name="TSystGraph::calc_if_not_updated">
+<area shape="rect" id="Node000001" title="Trigger calc() only if ROOT graphs are not up to date." alt="" coords="5,22,152,62"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a03ad308f8240ea6cbc50d17b4c508fbf" title="Evaluate systematics for all variations." alt="" coords="200,29,331,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,39,186,39,186,45,152,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="235,31,228,21,232,11,244,5,265,3,291,6,301,15,298,19,289,11,265,8,246,10,236,15,234,20,239,28"/>
+<area shape="rect" id="Node000003" href="$classSystGraph.html#a4fa97187927f3822a131ae3539375884" title="Get the list of all variation IDs." alt="" coords="379,29,524,55"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="331,39,364,39,364,45,331,45"/>
+</map>

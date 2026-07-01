@@ -1,0 +1,17 @@
+<map id="exp" name="exp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,104,57,129"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="8,105,3,96,6,86,16,80,34,77,54,81,63,89,59,93,52,86,34,83,18,85,10,89,8,95,13,103"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="118,5,252,31"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="42,102,67,71,103,40,115,34,117,38,106,44,71,75,46,105"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="105,55,265,80"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="57,106,104,89,127,81,129,87,106,94,58,111"/>
+<area shape="rect" id="Node000005" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="116,104,254,129"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="58,114,102,114,102,119,58,119"/>
+<area shape="rect" id="Node000006" href="$classDualPoint.html#ab8f4030fc2419627c16f20677dec05f1" title="Get the y&#45;coordinate (const)." alt="" coords="116,153,254,179"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="58,122,106,138,131,146,130,152,104,143,56,127"/>
+<area shape="rect" id="Node000007" href="$classDualGraph.html#abd1c37f638431cd59386a7cb2078a93b" title="Set a single point at index i (virtual)." alt="" coords="106,203,264,228"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="46,128,71,158,106,188,120,195,118,200,103,192,67,162,42,131"/>
+<area shape="rect" id="Node000004" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="313,129,493,155"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="231,78,266,89,357,122,355,127,264,94,229,83"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="226,200,264,187,353,157,355,162,266,193,227,205"/>
+</map>

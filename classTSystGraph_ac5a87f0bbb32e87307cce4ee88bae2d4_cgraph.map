@@ -1,0 +1,22 @@
+<map id="TSystGraph::select_bin" name="TSystGraph::select_bin">
+<area shape="rect" id="Node000001" title="Select a single bin." alt="" coords="5,76,176,101"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#aa0a3d9953a658835acd4aa4278c9442a" title="Select a subset of bins, preserving TDualGraph type." alt="" coords="224,76,395,101"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,86,210,86,210,91,176,91"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#adce681cf0ea5365415561acc72e41a1d" title="Select a subset of bins by index." alt="" coords="443,26,608,52"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,73,455,52,456,57,366,78"/>
+<area shape="rect" id="Node000006" href="$classTSystGraph.html#a31ed4f10af026a6f29ab49fc2e72bc1d" title="Set the default graph from a TDualGraph. Auto&#45;computes width_ from the first two x&#45;values." alt="" coords="449,125,602,150"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="366,98,456,119,455,124,365,104"/>
+<area shape="rect" id="Node000004" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="880,50,1060,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="579,24,656,11,744,3,783,4,833,11,885,25,931,42,929,47,883,30,831,16,783,9,744,8,656,16,580,29"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#a11f63d5553904c9d4302859cd8482116" title="Default constructor — empty graph." alt="" coords="660,26,828,52"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="608,36,646,36,646,42,608,42"/>
+<area shape="rect" id="Node000007" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="677,76,811,101"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="582,122,673,101,674,107,583,127"/>
+<area shape="rect" id="Node000008" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="664,125,824,150"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="602,135,650,135,650,140,602,140"/>
+<area shape="rect" id="Node000009" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="675,174,813,200"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="583,148,674,169,673,174,582,153"/>
+<area shape="rect" id="Node000010" href="$classDualNumber.html#a61ced6c2154401cc59c39eb471165420" title="Get the value." alt="" coords="656,224,832,249"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="547,148,595,179,657,210,676,217,675,222,655,215,593,183,544,153"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="790,122,831,110,922,78,923,83,833,115,792,127"/>
+</map>

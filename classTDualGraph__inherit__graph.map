@@ -1,0 +1,7 @@
+<map id="TDualGraph" name="TDualGraph">
+<area shape="rect" id="Node000001" title="DualGraph with a ROOT TGraphErrors mirror for plotting and I/O." alt="" coords="53,79,152,104"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html" title="A graph of DualPoint objects supporting uncertainty propagation." alt="" coords="5,5,96,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,40,96,77,92,80,65,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="120,5,192,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="141,43,113,80,109,77,137,40"/>
+</map>

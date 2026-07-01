@@ -1,0 +1,7 @@
+<map id="ValueErrors::print_err3" name="ValueErrors::print_err3">
+<area shape="rect" id="Node000001" title="Print value ± stat _{&#45;sysL}^{+sysH}." alt="" coords="216,31,383,56"/>
+<area shape="rect" id="Node000002" href="$classValueErrors.html#ac4b8634d6df8245e2ecf5cb5691b6cfd" title="Print the value with errors in the requested format." alt="" coords="19,5,154,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,34,154,29,155,23,203,29"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a1c18ce27f4f63851f82b0b858978c8f3" title="LaTeX&#45;formatted value with stat+syst uncertainties at index i." alt="" coords="5,55,168,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,57,168,61,168,56,202,52"/>
+</map>

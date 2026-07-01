@@ -1,0 +1,12 @@
+<map id="SystGraph::auto_new_vid" name="SystGraph::auto_new_vid">
+<area shape="rect" id="Node000001" title="Allocate a new unique variation ID." alt="" coords="439,43,625,68"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a62251d8e709b4cda8f450f82ea63e7cf" title="Add a variation with an auto&#45;assigned vid." alt="" coords="237,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,43,386,33,387,28,444,38"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a2504d4959a5bc4cd2bb6779b0ba9a74f" title="Add a TSystVariation with auto&#45;assigned vid." alt="" coords="233,79,391,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="441,73,390,81,390,76,440,68"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="351,69,340,61,312,57,289,59,277,64,274,70,281,77,277,80,269,70,273,60,288,54,312,52,342,56,354,65"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#af65a860fd9b2b18546af50893a2c4491" title="Extract a subset of variations, preserving TDualGraph types." alt="" coords="17,53,173,79"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="219,83,173,78,174,72,220,78"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#a76d1d195092a975e2f4af683cf28a095" title="Construct with default and variation map." alt="" coords="5,103,185,128"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="220,104,186,108,185,103,219,99"/>
+</map>

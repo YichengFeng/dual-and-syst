@@ -1,0 +1,11 @@
+<map id="TDualGraph::TDualGraph" name="TDualGraph::TDualGraph">
+<area shape="rect" id="Node000001" title="Construct from a TGraphErrors with explicit systematic ID." alt="" coords="5,31,189,56"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#a0430c668ad0f2b15454d6d7bae2b3ee7" title="Reset to n default points — invalidates the ROOT mirror." alt="" coords="267,5,407,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,31,253,24,254,29,190,36"/>
+<area shape="rect" id="Node000004" href="$classTDualGraph.html#a4fd939c06785b44dec3131478487bee7" title="Set derivatives from a TH1 histogram (specific systematic ID)." alt="" coords="237,55,437,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,50,224,53,223,59,189,55"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#a9735c59ced0fe16caad1b4aba25b7f63" title="Reset to n default&#45;initialized points (virtual)." alt="" coords="505,5,637,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="408,15,491,15,491,21,408,21"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#a41b26ff82a0d18541d24f4d2453e952d" title="Check that n matches the number of points. Prints a warning on mismatch." alt="" coords="485,55,656,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="437,65,472,65,472,70,437,70"/>
+</map>

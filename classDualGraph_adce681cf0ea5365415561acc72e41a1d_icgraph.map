@@ -1,0 +1,11 @@
+<map id="DualGraph::select_bin" name="DualGraph::select_bin">
+<area shape="rect" id="Node000001" title="Select a subset of bins by index." alt="" coords="443,31,608,56"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#a3e2ee69ca7e82eeb2a67150f6b91021e" title="Select a subset of bins for default and all variations." alt="" coords="228,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="428,35,391,30,391,25,429,29"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#aa0a3d9953a658835acd4aa4278c9442a" title="Select a subset of bins, preserving TDualGraph type." alt="" coords="224,55,395,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="429,57,395,61,394,55,428,51"/>
+<area shape="rect" id="Node000004" href="$classTSystGraph.html#ac5a87f0bbb32e87307cce4ee88bae2d4" title="Select a single bin." alt="" coords="5,29,176,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="210,59,176,55,177,49,211,53"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#ac50fddde58b54a78a00719bd50f4ca66" title="Select a contiguous range of bins [bl, bh]." alt="" coords="5,79,176,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="211,81,177,85,176,79,210,76"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="TSystGraph::TSystGraph" name="TSystGraph::TSystGraph">
+<area shape="rect" id="Node000001" title="Construct with a default TGraphErrors." alt="" coords="5,80,185,105"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a31ed4f10af026a6f29ab49fc2e72bc1d" title="Set the default graph from a TDualGraph. Auto&#45;computes width_ from the first two x&#45;values." alt="" coords="233,80,387,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,90,220,90,220,95,185,95"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="455,5,590,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="339,77,434,39,457,32,459,37,436,45,341,82"/>
+<area shape="rect" id="Node000004" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="443,55,603,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="387,81,429,76,429,81,387,86"/>
+<area shape="rect" id="Node000006" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="454,104,591,129"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="387,99,441,105,440,110,387,104"/>
+<area shape="rect" id="Node000007" href="$classDualNumber.html#a61ced6c2154401cc59c39eb471165420" title="Get the value." alt="" coords="435,153,611,179"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="343,103,436,138,463,147,461,152,434,143,341,108"/>
+<area shape="rect" id="Node000005" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="659,55,839,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="603,65,645,65,645,70,603,70"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TDualGraph::set_derivative" name="TDualGraph::set_derivative">
+<area shape="rect" id="Node000001" title="Set derivatives from a TH1 histogram (specific systematic ID)." alt="" coords="5,5,205,31"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#a41b26ff82a0d18541d24f4d2453e952d" title="Check that n matches the number of points. Prints a warning on mismatch." alt="" coords="253,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,15,240,15,240,21,205,21"/>
+</map>

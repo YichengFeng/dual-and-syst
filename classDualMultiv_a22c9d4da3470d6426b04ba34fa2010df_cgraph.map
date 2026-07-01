@@ -1,0 +1,5 @@
+<map id="DualMultiv::DualMultiv" name="DualMultiv::DualMultiv">
+<area shape="rect" id="Node000001" title="Construct with a value and derivative, auto&#45;assigning a new ID." alt="" coords="5,5,176,31"/>
+<area shape="rect" id="Node000002" href="$classDualMultiv.html#a7885e3ee13d6e1d988dd2f12cdf34070" title="Allocate a new unique variable ID." alt="" coords="224,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,15,210,15,210,21,176,21"/>
+</map>

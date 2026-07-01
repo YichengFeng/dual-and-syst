@@ -1,0 +1,7 @@
+<map id="CalcDerivative" name="CalcDerivative">
+<area shape="rect" id="Node000001" title="Simple numerical derivative calculator." alt="" coords="180,31,299,56"/>
+<area shape="rect" id="Node000002" href="$TGraphErrorsOperator_8cxx.html#a41355275db0ad24a75cf37e10c36d84e" title="Convert half&#45;resolution to full resolution (k=1)." alt="" coords="13,5,124,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,35,124,29,125,24,167,30"/>
+<area shape="rect" id="Node000003" href="$TGraphErrorsOperator_8cxx.html#a602f63c58c767341b4f3206e1c95a57c" title="Convert half&#45;resolution to full resolution (k=2)." alt="" coords="5,55,132,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,56,133,61,132,56,166,51"/>
+</map>

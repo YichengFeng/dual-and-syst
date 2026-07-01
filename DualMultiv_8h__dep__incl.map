@@ -1,0 +1,16 @@
+<map id="DualMultiv.h" name="DualMultiv.h">
+<area shape="rect" id="Node000001" title="Multi&#45;variable dual number for first&#45;order automatic differentiation." alt="" coords="81,5,185,31"/>
+<area shape="rect" id="Node000002" href="$DualGraph_8h.html" title="Core graph classes for dual&#45;number uncertainty propagation (ROOT&#45;independent)." alt="" coords="81,79,184,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,44,135,79,130,79,130,44"/>
+<area shape="rect" id="Node000003" href="$SystGraph_8h.html" title="Systematic&#45;uncertainty graph class (ROOT&#45;independent base)." alt="" coords="17,152,118,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="115,116,80,154,76,150,111,113"/>
+<area shape="rect" id="Node000006" href="$TDualGraph_8h.html" title="ROOT&#45;aware DualGraph with TGraphErrors mirror, I/O, and plotting." alt="" coords="143,152,253,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="155,113,189,150,185,154,151,116"/>
+<area shape="rect" id="Node000004" href="$TSystGraph_8h.html" title="ROOT&#45;aware systematic&#45;uncertainty graph with plotting and I/O." alt="" coords="13,225,122,251"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="70,191,70,225,65,225,65,191"/>
+<area shape="rect" id="Node000005" href="$TSystGraph_8cxx.html" title=" " alt="" coords="5,299,129,324"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="70,264,70,299,65,299,65,264"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="166,186,90,227,87,223,163,182"/>
+<area shape="rect" id="Node000007" href="$TDualGraph_8cxx.html" title=" " alt="" coords="147,225,273,251"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="205,191,211,225,205,226,200,192"/>
+</map>

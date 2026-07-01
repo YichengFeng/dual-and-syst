@@ -1,0 +1,16 @@
+<map id="operator/" name="operator/">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,87,129"/>
+<area shape="rect" id="Node000002" href="$classDualGraph.html#ab8302ff68f87c64ee0b42efe5abf5038" title="Get the number of points." alt="" coords="147,5,282,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="57,102,90,71,133,40,147,33,149,38,136,44,93,75,61,106"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html#a7b79aee405a63bd71f9b8274e18b06aa" title="Get point at index i (bounds&#45;checked)." alt="" coords="135,55,295,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="86,102,156,82,158,87,87,108"/>
+<area shape="rect" id="Node000005" href="$classDualPoint.html#ad86a687c2a175a29c9ecceadee8a1a27" title="Get the x&#45;coordinate (const)." alt="" coords="146,104,283,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="87,114,132,114,132,119,87,119"/>
+<area shape="rect" id="Node000006" href="$classDualPoint.html#ab8f4030fc2419627c16f20677dec05f1" title="Get the y&#45;coordinate (const)." alt="" coords="146,153,283,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="87,126,158,147,156,152,86,131"/>
+<area shape="rect" id="Node000007" href="$classDualGraph.html#abd1c37f638431cd59386a7cb2078a93b" title="Set a single point at index i (virtual)." alt="" coords="135,203,294,228"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="62,128,94,158,136,188,152,195,150,200,133,192,90,162,58,132"/>
+<area shape="rect" id="Node000004" href="$classDualGraph.html#a2cad45996af15096f051d1d39ccaebb9" title="Check that index i is in range. Prints a warning if out of range." alt="" coords="343,129,523,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,78,296,89,387,122,385,127,294,94,259,83"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="255,200,294,187,383,157,384,162,296,193,257,205"/>
+</map>

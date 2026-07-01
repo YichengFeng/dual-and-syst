@@ -1,0 +1,66 @@
+<map id="DualPoint::get_py" name="DualPoint::get_py">
+<area shape="rect" id="Node000001" title="Get the y&#45;coordinate (const)." alt="" coords="427,757,564,783"/>
+<area shape="rect" id="Node000002" href="$DualGraph_8h.html#aafa592e8d82d3128ec8fa6dca7473bcb" title=" " alt="" coords="257,29,302,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="491,744,485,604,468,400,453,295,433,199,408,121,393,90,377,68,360,56,341,48,302,44,303,38,342,43,363,51,381,64,398,88,413,119,438,198,458,294,473,399,490,603,496,744"/>
+<area shape="rect" id="Node000003" href="$DualGraph_8h.html#a196fe654e56ef2bd58d5f33077c59076" title=" " alt="" coords="254,103,305,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="490,743,482,616,463,434,448,342,429,257,405,188,392,161,377,141,361,129,342,122,304,117,305,112,344,117,364,125,381,137,396,158,410,185,434,255,453,341,468,434,487,615,496,743"/>
+<area shape="rect" id="Node000004" href="$DualGraph_8h.html#ae742148cf0a9ba8d3aee0fe274460e3c" title="Pointwise two&#45;argument arctangent." alt="" coords="250,176,309,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="489,743,479,629,458,470,443,389,424,315,402,255,390,232,377,215,362,203,345,196,309,191,310,185,346,191,365,199,381,211,394,229,407,253,430,313,448,388,463,469,484,628,495,743"/>
+<area shape="rect" id="Node000005" href="$classTSystGraph.html#aef29bdd20d599f1f8c6a4736b7bdbb7d" title="Evaluate systematics for specified vids and sync ROOT graphs." alt="" coords="214,225,345,251"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="489,744,477,639,455,494,440,421,422,354,401,300,377,264,362,253,344,246,346,241,364,248,381,260,405,298,427,353,445,420,460,493,483,638,494,743"/>
+<area shape="rect" id="Node000006" href="$TDualGraph_8cxx.html#ac0eecbe0fa02e739b0d274dc67778c6d" title=" " alt="" coords="238,275,321,300"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="488,744,475,648,452,518,436,453,419,394,399,345,377,313,351,297,321,290,322,285,353,292,381,309,403,343,424,392,441,451,457,517,480,647,494,743"/>
+<area shape="rect" id="Node000007" href="$TSystGraph_8cxx.html#afa5d5809cac02b42697476f05dde4593" title=" " alt="" coords="238,324,321,349"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="492,744,490,669,476,566,462,511,441,457,413,406,377,363,351,347,320,340,322,335,352,342,380,359,418,403,446,454,467,509,481,565,496,668,498,744"/>
+<area shape="rect" id="Node000008" href="$DualGraph_8h.html#ac9956814db51f56bd49fc007febbf046" title=" " alt="" coords="257,397,301,423"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="490,744,484,681,466,598,452,554,432,512,408,472,377,437,360,426,340,418,301,413,302,407,341,413,362,421,380,433,412,469,437,509,457,552,471,597,489,680,496,743"/>
+<area shape="rect" id="Node000009" href="$classSystGraph.html#ac37d7de0637f0c48f4607535d319ee23" title="Evaluate systematics for a specified subset of vids." alt="" coords="202,447,357,487"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="488,744,477,693,456,628,424,560,402,529,377,501,356,487,359,483,380,497,406,525,428,557,461,626,482,692,493,743"/>
+<area shape="rect" id="Node000010" href="$DualGraph_8h.html#a64d40c7de7964e6eb22459e9671b5d2a" title=" " alt="" coords="256,536,303,561"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="484,745,469,706,447,660,416,614,377,575,359,565,340,558,303,552,303,547,341,553,362,560,380,571,420,610,452,657,474,704,489,743"/>
+<area shape="rect" id="Node000011" href="$DualGraph_8h.html#aa8444553ddc10b6ac918956a71853000" title=" " alt="" coords="258,609,301,635"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="476,748,435,697,408,670,377,648,338,633,300,626,301,621,339,628,380,644,411,666,439,693,480,744"/>
+<area shape="rect" id="Node000012" href="$DualGraph_8h.html#afa2b11492a57631473e9eb77e99f29cd" title=" " alt="" coords="237,659,321,684"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="466,751,426,724,378,698,321,681,322,676,380,693,428,719,469,747"/>
+<area shape="rect" id="Node000013" href="$DualGraph_8h.html#a8990667abba5252e7d08c91da85d2454" title="DualGraph * scalar." alt="" coords="237,708,321,733"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="425,757,321,733,322,728,426,752"/>
+<area shape="rect" id="Node000014" href="$DualGraph_8h.html#ab134222ddec3b6897fe930690abcdd9d" title="Pointwise DualGraph * DualGraph." alt="" coords="237,757,321,783"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="413,773,322,773,322,767,413,767"/>
+<area shape="rect" id="Node000015" href="$DualGraph_8h.html#acc7fb8c06f831517543367fa2ff289b8" title="DualGraph + DualMultiv (broadcast to all points)." alt="" coords="235,807,323,832"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="427,788,324,812,323,807,425,783"/>
+<area shape="rect" id="Node000016" href="$DualGraph_8h.html#ada9f9ce3fdc4eb50eeb5ac4c03efe6c9" title="DualGraph + scalar (adds to all y&#45;values)." alt="" coords="235,856,323,881"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="469,793,428,820,380,846,324,863,323,858,378,841,425,816,466,788"/>
+<area shape="rect" id="Node000017" href="$DualGraph_8h.html#a1cdaa3b2f2abf4e13e3691886e754386" title="Pointwise DualGraph + DualGraph." alt="" coords="235,905,323,931"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="480,796,439,846,411,873,380,895,353,907,324,915,323,910,351,902,377,890,408,869,435,843,476,792"/>
+<area shape="rect" id="Node000018" href="$DualGraph_8h.html#a1dad21d5b236de863e871110c6cb0eef" title="Unary minus (negates all y&#45;values)." alt="" coords="238,955,321,980"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="486,797,471,830,447,870,417,910,380,944,352,958,322,966,320,961,350,953,377,940,413,907,443,867,466,828,482,794"/>
+<area shape="rect" id="Node000019" href="$DualGraph_8h.html#ab2ae1fae380e1b05c65ec62d4697931d" title=" " alt="" coords="239,1004,320,1029"/>
+<area shape="poly" id="edge24_Node000001_Node000019" title=" " alt="" coords="490,797,477,840,455,893,423,947,403,972,380,994,351,1009,321,1017,320,1011,350,1004,377,989,399,968,419,944,450,891,472,838,485,795"/>
+<area shape="rect" id="Node000020" href="$DualGraph_8h.html#aaa8f257f165b2b3cf3128bcd245ed31e" title="Scalar / DualGraph." alt="" coords="239,1053,320,1079"/>
+<area shape="poly" id="edge25_Node000001_Node000020" title=" " alt="" coords="493,797,483,849,462,915,429,984,407,1015,380,1043,352,1059,321,1066,320,1061,350,1054,377,1039,403,1012,425,981,457,913,478,848,488,796"/>
+<area shape="rect" id="Node000021" href="$DualGraph_8h.html#afec77d377990b6c778cb2306b6ac5bc7" title="Pointwise power: ." alt="" coords="255,1127,304,1152"/>
+<area shape="poly" id="edge26_Node000001_Node000021" title=" " alt="" coords="494,797,484,855,464,933,431,1016,408,1056,381,1092,363,1107,344,1120,305,1135,303,1130,341,1115,360,1103,377,1088,404,1053,426,1014,459,931,479,854,489,796"/>
+<area shape="rect" id="Node000023" href="$DualGraph_8h.html#a8fa0fe72e9d6b0e8ede3293548ed31a6" title=" " alt="" coords="259,1200,300,1225"/>
+<area shape="poly" id="edge29_Node000001_Node000023" title=" " alt="" coords="496,797,490,867,473,964,458,1017,438,1069,413,1119,381,1165,362,1182,341,1195,301,1210,299,1205,339,1190,359,1178,377,1162,408,1117,433,1067,453,1015,467,963,485,866,491,796"/>
+<area shape="rect" id="Node000024" href="$classTSystGraph.html#a1c18ce27f4f63851f82b0b858978c8f3" title="LaTeX&#45;formatted value with stat+syst uncertainties at index i." alt="" coords="198,1249,361,1275"/>
+<area shape="poly" id="edge31_Node000001_Node000024" title=" " alt="" coords="494,797,481,894,457,1027,442,1093,424,1154,404,1204,381,1239,362,1252,359,1247,377,1235,399,1202,419,1153,437,1092,452,1026,475,893,488,796"/>
+<area shape="rect" id="Node000025" href="$DualGraph_8h.html#a679649ac057ac28e0f7c7d3659cd2ec8" title=" " alt="" coords="258,1323,301,1348"/>
+<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="494,797,480,902,456,1047,423,1190,403,1247,381,1288,363,1305,342,1318,302,1333,300,1328,340,1313,360,1301,377,1284,398,1245,418,1189,451,1046,475,901,488,796"/>
+<area shape="rect" id="Node000026" href="$classSystGraph.html#aca04e00b1a8110b5b95b4b24ad44f49a" title="Generate a LaTeX tabular of systematic uncertainties." alt="" coords="204,1372,355,1397"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="495,797,486,917,466,1087,451,1174,432,1253,409,1318,395,1343,380,1363,356,1379,353,1374,377,1359,391,1340,404,1316,427,1251,445,1172,460,1086,481,917,490,796"/>
+<area shape="rect" id="Node000028" href="$classTSystGraph.html#afcc068063e7d974e5479e750b3c654cc" title="Get a ValueErrors object for bin i with stat and syst." alt="" coords="180,1421,379,1447"/>
+<area shape="poly" id="edge36_Node000001_Node000028" title=" " alt="" coords="496,797,488,926,469,1110,454,1205,435,1292,410,1363,396,1391,381,1412,366,1423,363,1419,377,1408,392,1388,406,1361,429,1290,449,1204,463,1110,482,926,490,796"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="312,26,316,19,313,14,301,10,279,8,254,11,243,16,244,23,258,32,255,37,240,26,239,14,253,6,279,3,302,5,316,10,321,19,316,29"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="313,98,316,92,312,87,300,83,279,81,255,84,244,89,244,96,255,105,252,109,239,98,239,87,253,79,279,76,301,78,315,83,321,91,318,100"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="316,168,315,163,310,159,279,155,256,157,244,162,243,168,252,176,248,180,238,169,240,159,255,152,279,149,312,154,320,161,321,168"/>
+<area shape="poly" id="edge11_Node000008_Node000008" title=" " alt="" coords="311,395,316,388,313,383,301,378,279,376,254,379,243,385,245,392,259,401,256,405,240,394,239,382,252,374,279,371,302,373,317,379,321,388,315,398"/>
+<area shape="poly" id="edge14_Node000010_Node000010" title=" " alt="" coords="312,532,316,526,313,521,301,516,279,515,254,517,244,523,244,530,257,539,254,543,240,532,239,520,253,512,279,509,302,511,316,517,321,526,317,535"/>
+<area shape="poly" id="edge16_Node000011_Node000011" title=" " alt="" coords="311,607,316,600,313,595,301,590,279,588,254,591,243,597,245,604,259,613,256,617,240,607,238,594,252,586,279,583,303,585,317,591,321,600,315,610"/>
+<area shape="poly" id="edge27_Node000021_Node000021" title=" " alt="" coords="313,1122,316,1116,312,1111,300,1107,279,1105,255,1108,244,1113,244,1120,256,1129,253,1133,239,1123,239,1111,253,1103,279,1100,301,1102,315,1107,321,1115,318,1124"/>
+<area shape="rect" id="Node000022" href="$DualGraph_8h.html#a9b4ff74ae51f15b6506a9fc52d0f13a2" title=" " alt="" coords="45,1127,92,1152"/>
+<area shape="poly" id="edge28_Node000021_Node000022" title=" " alt="" coords="241,1142,92,1142,92,1137,241,1137"/>
+<area shape="poly" id="edge30_Node000023_Node000023" title=" " alt="" coords="310,1198,316,1191,314,1185,302,1181,279,1179,254,1181,243,1187,245,1195,260,1204,257,1208,240,1198,238,1185,252,1176,279,1173,303,1175,317,1182,321,1191,314,1201"/>
+<area shape="poly" id="edge33_Node000025_Node000025" title=" " alt="" coords="311,1320,316,1313,313,1308,301,1303,279,1301,254,1304,243,1310,245,1317,259,1326,256,1331,240,1320,238,1308,252,1299,279,1296,303,1298,317,1304,321,1313,315,1323"/>
+<area shape="rect" id="Node000027" href="$classSystGraph.html#a9b00d602da97e0ba05d92a75d73f8e46" title="Print the LaTeX table to stdout." alt="" coords="5,1372,132,1397"/>
+<area shape="poly" id="edge35_Node000026_Node000027" title=" " alt="" coords="190,1387,132,1387,132,1382,190,1382"/>
+</map>

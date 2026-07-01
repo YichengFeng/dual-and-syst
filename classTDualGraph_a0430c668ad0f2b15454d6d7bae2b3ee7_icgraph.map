@@ -1,0 +1,11 @@
+<map id="TDualGraph::reset" name="TDualGraph::reset">
+<area shape="rect" id="Node000001" title="Reset to n default points — invalidates the ROOT mirror." alt="" coords="237,80,377,105"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html#a7e07d9707586ef112b1cff325c830509" title="Construct from a TGraphErrors." alt="" coords="5,5,189,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="266,77,188,45,152,33,153,28,190,39,268,72"/>
+<area shape="rect" id="Node000003" href="$classTDualGraph.html#ad5f22683be918afc719335cd90c06548" title="Construct from a TH1 histogram." alt="" coords="5,55,189,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,85,189,81,190,76,224,80"/>
+<area shape="rect" id="Node000004" href="$classTDualGraph.html#acbfaa0af63539031d26d2774227c94c8" title="Construct from a TGraphErrors with explicit systematic ID." alt="" coords="5,104,189,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="224,105,190,109,189,103,223,100"/>
+<area shape="rect" id="Node000005" href="$classTDualGraph.html#aa7213b01aeb659b674706038daf6a6c9" title="Construct from a TH1 with explicit systematic ID." alt="" coords="5,153,189,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="266,113,190,143,149,156,148,151,188,138,264,108"/>
+</map>

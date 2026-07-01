@@ -1,0 +1,7 @@
+<map id="DualGraph::average_bin_simple" name="DualGraph::average_bin_simple">
+<area shape="rect" id="Node000001" title="Simple (equal&#45;weight) average merge of specified bins." alt="" coords="212,37,364,77"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#aadefb73183bc3351ec69e55c85d838ba" title="Equal&#45;weight average over specified bins." alt="" coords="9,5,160,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,46,160,40,161,35,199,41"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#ac4d4d9f983163e527b1a0ea1503c1ec5" title="Equal&#45;weight average over bins, preserving TDualGraph type." alt="" coords="5,69,164,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,74,165,80,164,74,198,69"/>
+</map>

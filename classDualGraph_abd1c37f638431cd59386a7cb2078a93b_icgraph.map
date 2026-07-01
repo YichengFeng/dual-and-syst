@@ -1,0 +1,54 @@
+<map id="DualGraph::set_point" name="DualGraph::set_point">
+<area shape="rect" id="Node000001" title="Set a single point at index i (virtual)." alt="" coords="315,619,473,644"/>
+<area shape="rect" id="Node000002" href="$DualGraph_8h.html#aafa592e8d82d3128ec8fa6dca7473bcb" title=" " alt="" coords="161,29,206,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="388,606,375,491,351,329,334,246,314,171,291,109,265,68,252,58,237,51,206,45,207,40,238,46,255,53,269,64,296,107,319,169,339,245,356,328,380,490,393,605"/>
+<area shape="rect" id="Node000003" href="$DualGraph_8h.html#a196fe654e56ef2bd58d5f33077c59076" title=" " alt="" coords="158,103,209,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="387,606,372,504,346,364,329,293,310,229,288,177,265,141,252,132,238,125,208,119,209,114,240,120,255,127,269,138,293,174,315,227,334,292,351,363,377,503,392,605"/>
+<area shape="rect" id="Node000004" href="$DualGraph_8h.html#ae742148cf0a9ba8d3aee0fe274460e3c" title="Pointwise two&#45;argument arctangent." alt="" coords="154,176,213,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="390,605,386,529,369,424,353,367,331,312,302,260,265,215,240,200,212,193,213,188,242,195,268,211,307,257,336,310,358,366,374,423,391,528,396,605"/>
+<area shape="rect" id="Node000005" href="$TSystGraph_8cxx.html#afa5d5809cac02b42697476f05dde4593" title=" " alt="" coords="142,225,225,251"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="389,605,382,537,363,445,347,396,326,348,299,303,265,264,246,252,224,244,226,239,248,247,268,260,303,300,330,345,352,394,368,443,387,536,394,604"/>
+<area shape="rect" id="Node000006" href="$DualGraph_8h.html#ac9956814db51f56bd49fc007febbf046" title=" " alt="" coords="161,299,205,324"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="386,606,375,550,353,477,337,439,317,402,293,367,265,337,236,322,205,315,206,310,237,317,268,333,297,364,322,399,342,437,358,475,380,548,392,604"/>
+<area shape="rect" id="Node000007" href="$DualGraph_8h.html#a64d40c7de7964e6eb22459e9671b5d2a" title=" " alt="" coords="160,372,207,397"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="383,606,367,563,343,511,309,457,288,432,265,411,236,396,206,389,208,384,238,391,268,406,292,428,313,453,348,508,372,561,388,604"/>
+<area shape="rect" id="Node000008" href="$DualGraph_8h.html#aa8444553ddc10b6ac918956a71853000" title=" " alt="" coords="162,445,205,471"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="376,608,332,546,301,513,265,484,234,470,204,463,206,458,236,465,268,480,304,509,336,542,380,605"/>
+<area shape="rect" id="Node000009" href="$DualGraph_8h.html#afa2b11492a57631473e9eb77e99f29cd" title=" " alt="" coords="141,495,225,520"/>
+<area shape="poly" id="edge14_Node000001_Node000009" title=" " alt="" coords="368,611,323,572,265,534,225,518,226,513,268,529,326,567,372,607"/>
+<area shape="rect" id="Node000010" href="$DualGraph_8h.html#a8990667abba5252e7d08c91da85d2454" title="DualGraph * scalar." alt="" coords="141,544,225,569"/>
+<area shape="poly" id="edge15_Node000001_Node000010" title=" " alt="" coords="350,616,266,583,225,570,226,565,268,578,352,611"/>
+<area shape="rect" id="Node000011" href="$DualGraph_8h.html#ab134222ddec3b6897fe930690abcdd9d" title="Pointwise DualGraph * DualGraph." alt="" coords="141,593,225,619"/>
+<area shape="poly" id="edge16_Node000001_Node000011" title=" " alt="" coords="301,623,225,614,226,608,302,618"/>
+<area shape="rect" id="Node000012" href="$DualGraph_8h.html#acc7fb8c06f831517543367fa2ff289b8" title="DualGraph + DualMultiv (broadcast to all points)." alt="" coords="139,643,227,668"/>
+<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="302,645,228,653,227,648,301,639"/>
+<area shape="rect" id="Node000013" href="$DualGraph_8h.html#ada9f9ce3fdc4eb50eeb5ac4c03efe6c9" title="DualGraph + scalar (adds to all y&#45;values)." alt="" coords="139,692,227,717"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="349,652,268,682,228,695,227,689,266,677,347,647"/>
+<area shape="rect" id="Node000014" href="$DualGraph_8h.html#a1cdaa3b2f2abf4e13e3691886e754386" title="Pointwise DualGraph + DualGraph." alt="" coords="139,741,227,767"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="371,655,325,694,268,731,228,746,227,741,265,726,322,689,368,651"/>
+<area shape="rect" id="Node000015" href="$DualGraph_8h.html#a1dad21d5b236de863e871110c6cb0eef" title="Unary minus (negates all y&#45;values)." alt="" coords="142,791,225,816"/>
+<area shape="poly" id="edge20_Node000001_Node000015" title=" " alt="" coords="380,657,335,718,304,752,268,780,226,798,224,793,265,776,300,748,331,715,376,654"/>
+<area shape="rect" id="Node000016" href="$DualGraph_8h.html#ab2ae1fae380e1b05c65ec62d4697931d" title=" " alt="" coords="143,840,224,865"/>
+<area shape="poly" id="edge21_Node000001_Node000016" title=" " alt="" coords="386,658,369,696,343,742,310,789,268,829,247,841,225,849,223,844,245,837,265,825,306,785,339,739,364,693,381,655"/>
+<area shape="rect" id="Node000017" href="$DualGraph_8h.html#aaa8f257f165b2b3cf3128bcd245ed31e" title="Scalar / DualGraph." alt="" coords="143,889,224,915"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="389,659,375,706,351,765,316,826,294,854,268,879,247,891,225,899,223,894,245,887,265,875,290,850,311,823,346,763,370,704,384,657"/>
+<area shape="rect" id="Node000018" href="$DualGraph_8h.html#afec77d377990b6c778cb2306b6ac5bc7" title="Pointwise power: ." alt="" coords="159,963,208,988"/>
+<area shape="poly" id="edge23_Node000001_Node000018" title=" " alt="" coords="390,658,376,712,352,782,317,858,294,894,269,928,240,952,210,968,207,964,237,948,265,924,290,891,312,855,347,780,371,710,385,657"/>
+<area shape="rect" id="Node000020" href="$classTDualGraph.html#a15d180ba31225c0b24c6a8f0f88aa4dd" title="Set a single point — invalidates the ROOT mirror." alt="" coords="100,1012,267,1037"/>
+<area shape="poly" id="edge26_Node000001_Node000020" title=" " alt="" coords="394,658,387,726,367,818,351,868,330,916,303,961,268,1001,250,1014,247,1010,265,997,298,958,325,914,346,866,362,817,381,726,389,658"/>
+<area shape="rect" id="Node000021" href="$DualGraph_8h.html#a8fa0fe72e9d6b0e8ede3293548ed31a6" title=" " alt="" coords="163,1085,204,1111"/>
+<area shape="poly" id="edge27_Node000001_Node000021" title=" " alt="" coords="394,658,386,731,366,834,350,890,328,946,302,1001,269,1050,238,1077,205,1093,203,1089,235,1073,265,1047,297,998,324,944,344,888,360,832,380,730,389,657"/>
+<area shape="rect" id="Node000022" href="$DualGraph_8h.html#a679649ac057ac28e0f7c7d3659cd2ec8" title=" " alt="" coords="162,1159,205,1184"/>
+<area shape="poly" id="edge29_Node000001_Node000022" title=" " alt="" coords="395,658,391,743,373,864,357,931,335,999,306,1064,269,1124,255,1138,238,1150,206,1167,204,1162,236,1146,251,1134,265,1120,301,1061,330,997,352,930,368,863,385,742,390,658"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="210,19,203,11,183,8,167,10,159,15,157,21,163,29,158,31,152,22,154,12,165,5,183,3,205,6,214,16"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="210,92,202,84,183,81,167,83,159,88,157,94,162,101,157,104,152,94,155,85,166,78,183,76,205,79,214,88"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="210,165,202,158,183,155,167,157,159,161,157,167,162,175,157,177,152,168,155,158,166,152,183,149,205,153,214,161"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="210,290,204,281,183,277,167,279,158,284,157,290,163,299,159,302,152,292,154,281,165,274,183,272,206,276,214,287"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="210,362,203,354,183,351,167,353,159,357,157,363,162,371,158,374,152,364,155,354,165,348,183,345,205,349,214,358"/>
+<area shape="poly" id="edge13_Node000008_Node000008" title=" " alt="" coords="210,437,204,428,183,424,167,426,158,431,157,437,164,446,159,449,152,439,154,428,165,421,183,419,207,423,215,434"/>
+<area shape="poly" id="edge24_Node000018_Node000018" title=" " alt="" coords="210,952,202,944,183,941,167,943,159,948,157,954,162,961,157,964,152,954,155,945,166,938,183,936,205,939,214,948"/>
+<area shape="rect" id="Node000019" href="$DualGraph_8h.html#a9b4ff74ae51f15b6506a9fc52d0f13a2" title=" " alt="" coords="5,963,52,988"/>
+<area shape="poly" id="edge25_Node000018_Node000019" title=" " alt="" coords="145,978,52,978,52,973,145,973"/>
+<area shape="poly" id="edge28_Node000021_Node000021" title=" " alt="" coords="210,1077,209,1072,205,1068,183,1064,166,1066,158,1071,158,1078,165,1086,160,1090,152,1079,154,1069,164,1061,183,1059,207,1064,214,1070,215,1076"/>
+<area shape="poly" id="edge30_Node000022_Node000022" title=" " alt="" coords="210,1151,204,1141,183,1137,167,1140,158,1145,157,1151,164,1159,159,1162,152,1152,154,1142,165,1134,183,1132,207,1137,215,1148"/>
+</map>

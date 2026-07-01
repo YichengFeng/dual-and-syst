@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classDualGraph.html" title="A graph of DualPoint objects supporting uncertainty propagation." alt="" coords="5,5,96,31"/>
+<area shape="rect" id="Node000001" href="$classTDualGraph.html" title="DualGraph with a ROOT TGraphErrors mirror for plotting and I/O." alt="" coords="144,31,243,56"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="110,26,144,32,143,37,109,31"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html" title="A graph with systematic uncertainty variations (ROOT&#45;independent)." alt="" coords="6,104,95,129"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html" title="ROOT&#45;enabled systematic&#45;uncertainty graph." alt="" coords="145,92,242,117"/>
+<area shape="poly" id="edge2_Node000004_Node000003" title=" " alt="" coords="109,109,144,106,145,111,109,114"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,55,87,80"/>
+<area shape="poly" id="edge3_Node000002_Node000001" title=" " alt="" coords="100,56,143,49,144,54,101,62"/>
+<area shape="poly" id="edge4_Node000002_Node000003" title=" " alt="" coords="101,78,145,89,144,95,99,83"/>
+</map>

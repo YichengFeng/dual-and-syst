@@ -1,0 +1,9 @@
+<map id="TSystVariation" name="TSystVariation">
+<area shape="rect" id="Node000001" title="A systematic variation with a ROOT&#45;enabled TDualGraph." alt="" coords="45,168,161,193"/>
+<area shape="rect" id="Node000002" href="$classTDualGraph.html" title="DualGraph with a ROOT TGraphErrors mirror for plotting and I/O." alt="" coords="53,80,152,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,119,105,167,100,167,100,119"/>
+<area shape="rect" id="Node000003" href="$classDualGraph.html" title="A graph of DualPoint objects supporting uncertainty propagation." alt="" coords="5,5,96,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,41,96,78,92,81,65,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="120,5,192,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="141,44,113,81,109,78,137,41"/>
+</map>

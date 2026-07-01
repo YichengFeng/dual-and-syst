@@ -1,0 +1,59 @@
+<map id="syst_detail::apply_unary" name="syst_detail::apply_unary">
+<area shape="rect" id="Node000001" title="Apply a unary operator to a SystGraph (default + all variations)." alt="" coords="236,661,373,701"/>
+<area shape="rect" id="Node000002" href="$SystGraph_8h.html#a45aa1590907b10dbc15f04b4bcbb6093" title=" " alt="" coords="121,29,167,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,647,286,521,264,349,249,262,230,181,210,115,186,68,165,52,168,47,190,64,215,113,236,180,254,261,269,349,291,521,303,646"/>
+<area shape="rect" id="Node000003" href="$SystGraph_8h.html#aa53801b8a3526d1c3d34109f91f11f12" title=" " alt="" coords="119,103,169,128"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="297,647,283,535,260,385,227,239,207,182,186,141,168,127,171,122,190,138,212,179,232,238,265,384,289,534,302,647"/>
+<area shape="rect" id="Node000004" href="$SystGraph_8h.html#a1e8a13366f104f7d2da140021c22f4d9" title=" " alt="" coords="122,176,166,201"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="301,647,297,564,282,450,267,389,247,327,220,268,186,214,164,198,168,194,190,211,225,266,252,325,272,387,287,449,303,563,306,647"/>
+<area shape="rect" id="Node000005" href="$SystGraph_8h.html#ad3b9cd302b754eabe2dba3689c34e704" title=" " alt="" coords="121,249,167,275"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="299,647,292,576,274,481,259,431,240,380,216,332,186,288,166,273,169,268,190,284,220,329,245,378,264,429,279,480,297,575,305,647"/>
+<area shape="rect" id="Node000006" href="$SystGraph_8h.html#ad9b7406082c03b070709f92b3b6594dd" title=" " alt="" coords="123,323,165,348"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="297,648,286,589,265,513,233,433,211,396,186,361,164,345,167,341,190,357,216,393,238,431,270,512,291,587,302,647"/>
+<area shape="rect" id="Node000007" href="$SystGraph_8h.html#a7e0915614b7f41276758674b6a5b846e" title=" " alt="" coords="102,372,186,397"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="294,648,281,598,259,535,228,470,208,439,186,411,173,400,176,395,190,407,213,436,232,467,264,533,286,596,299,647"/>
+<area shape="rect" id="Node000008" href="$SystGraph_8h.html#a2a92ea7d922429e436c20e3e835b085c" title=" " alt="" coords="102,421,186,447"/>
+<area shape="poly" id="edge12_Node000001_Node000008" title=" " alt="" coords="291,649,275,607,253,558,223,506,186,460,172,449,175,445,190,456,227,503,257,555,280,605,296,647"/>
+<area shape="rect" id="Node000009" href="$SystGraph_8h.html#aabd7ddefd915c9ebd9e932f8f23216e6" title=" " alt="" coords="102,471,186,496"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="285,649,245,581,218,543,186,509,171,498,174,494,190,505,222,540,250,578,290,647"/>
+<area shape="rect" id="Node000010" href="$SystGraph_8h.html#ad26d5de3a8c9df6569208df9863a52a3" title=" " alt="" coords="100,520,188,545"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="277,651,237,605,186,559,170,548,172,543,190,555,240,602,281,648"/>
+<area shape="rect" id="Node000011" href="$SystGraph_8h.html#a849c06a0d62e8ef74dda10c5d732ecdf" title=" " alt="" coords="100,569,188,595"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="260,655,187,608,167,597,170,592,189,604,263,651"/>
+<area shape="rect" id="Node000012" href="$SystGraph_8h.html#af2e4fd99f2df5e3304ada9baf1acf1ba" title=" " alt="" coords="100,619,188,644"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="226,659,185,647,187,641,227,654"/>
+<area shape="rect" id="Node000013" href="$SystGraph_8h.html#a4a3a64e33907da4e81dc48225e7e2bf5" title=" " alt="" coords="103,668,185,693"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="222,683,186,683,186,678,222,678"/>
+<area shape="rect" id="Node000014" href="$SystGraph_8h.html#a639315e4a40caf8a79a8c4122b52928c" title=" " alt="" coords="103,717,185,743"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="227,707,186,720,185,715,225,702"/>
+<area shape="rect" id="Node000015" href="$SystGraph_8h.html#a478f8391026a551751a4f76755f725c6" title="Unary minus (negates default and all variations)." alt="" coords="103,767,185,792"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="262,710,189,756,168,769,166,764,187,752,259,706"/>
+<area shape="rect" id="Node000016" href="$SystGraph_8h.html#a2f3e30091d30ce210434d21d9d2c18a2" title=" " alt="" coords="103,816,185,841"/>
+<area shape="poly" id="edge20_Node000001_Node000016" title=" " alt="" coords="281,713,240,759,190,805,171,818,168,814,186,801,236,755,277,710"/>
+<area shape="rect" id="Node000017" href="$SystGraph_8h.html#a13f14413e520d0ed9d6a7b1e70390cec" title=" " alt="" coords="103,865,185,891"/>
+<area shape="poly" id="edge21_Node000001_Node000017" title=" " alt="" coords="290,714,249,783,221,820,190,855,173,867,169,863,186,851,217,817,245,780,285,711"/>
+<area shape="rect" id="Node000018" href="$SystGraph_8h.html#a9301c853ab7d7caa2536dced7782e53f" title=" " alt="" coords="103,915,185,940"/>
+<area shape="poly" id="edge22_Node000001_Node000018" title=" " alt="" coords="295,716,256,806,227,857,190,904,174,917,171,912,186,900,222,854,251,804,290,713"/>
+<area shape="rect" id="Node000019" href="$SystGraph_8h.html#ab302ffcc7eaaa995f95a3bf3399f1ef5" title=" " alt="" coords="103,964,185,989"/>
+<area shape="poly" id="edge23_Node000001_Node000019" title=" " alt="" coords="299,715,285,765,263,827,232,893,190,953,175,966,171,962,186,950,227,890,258,825,280,763,294,713"/>
+<area shape="rect" id="Node000020" href="$SystGraph_8h.html#ab7dda44914d9997d45c8f23f7095c69d" title=" " alt="" coords="103,1013,185,1039"/>
+<area shape="poly" id="edge24_Node000001_Node000020" title=" " alt="" coords="301,715,290,774,269,849,237,929,215,967,190,1002,175,1015,171,1011,186,999,211,964,232,927,264,847,285,773,296,714"/>
+<area shape="rect" id="Node000021" href="$SystGraph_8h.html#a9e56955fee84da5748318e5755118b78" title=" " alt="" coords="103,1063,185,1088"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="303,715,294,782,275,870,260,918,242,965,218,1010,190,1052,176,1064,172,1060,186,1048,214,1007,237,963,255,916,270,869,289,781,298,714"/>
+<area shape="rect" id="Node000022" href="$SystGraph_8h.html#ab854e624d95960b0612656c1e3f32aef" title="Pointwise power on default and all variations." alt="" coords="119,1136,169,1161"/>
+<area shape="poly" id="edge26_Node000001_Node000022" title=" " alt="" coords="302,715,290,787,269,886,236,995,215,1049,190,1101,177,1121,161,1137,158,1134,172,1118,186,1098,210,1047,231,993,264,884,285,786,297,714"/>
+<area shape="rect" id="Node000024" href="$SystGraph_8h.html#a33029fb93ba23f1c46d26cbb7354d975" title=" " alt="" coords="123,1209,165,1235"/>
+<area shape="poly" id="edge29_Node000001_Node000024" title=" " alt="" coords="304,715,294,799,275,915,241,1046,218,1112,190,1174,177,1194,162,1211,158,1207,173,1191,186,1171,213,1110,236,1045,270,914,289,798,298,714"/>
+<area shape="rect" id="Node000025" href="$SystGraph_8h.html#a8420f4d51deb35823beb138f32969998" title=" " alt="" coords="123,1283,165,1308"/>
+<area shape="poly" id="edge31_Node000001_Node000025" title=" " alt="" coords="305,715,298,810,281,945,266,1021,246,1098,222,1174,190,1247,177,1268,162,1284,158,1281,173,1264,186,1245,217,1173,241,1096,261,1019,275,944,293,809,300,714"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="163,18,157,11,144,8,132,10,127,14,125,20,129,28,124,30,120,21,122,12,130,5,144,3,160,6,167,14"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="163,91,157,84,144,81,132,83,127,88,125,94,129,101,124,104,120,94,122,85,130,78,144,76,160,79,167,88"/>
+<area shape="poly" id="edge6_Node000004_Node000004" title=" " alt="" coords="163,165,157,157,144,155,132,157,127,161,125,167,129,175,124,177,120,168,122,158,130,152,144,149,160,153,167,161"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="163,238,157,231,144,228,132,230,127,234,125,240,129,248,124,250,120,241,122,232,130,225,144,223,160,226,167,234"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="163,311,157,304,144,301,132,303,127,308,125,314,129,321,124,324,120,314,122,305,130,298,144,296,160,299,167,308"/>
+<area shape="poly" id="edge27_Node000022_Node000022" title=" " alt="" coords="163,1125,157,1117,144,1115,132,1117,127,1121,125,1127,129,1135,124,1137,120,1128,122,1118,130,1112,144,1109,160,1113,167,1121"/>
+<area shape="rect" id="Node000023" href="$SystGraph_8h.html#a9745e051bc12cb2e962c3902cf6f713a" title=" " alt="" coords="5,1136,52,1161"/>
+<area shape="poly" id="edge28_Node000022_Node000023" title=" " alt="" coords="106,1151,52,1151,52,1146,106,1146"/>
+<area shape="poly" id="edge30_Node000024_Node000024" title=" " alt="" coords="163,1198,157,1191,144,1188,132,1190,127,1194,125,1200,129,1208,124,1210,120,1201,122,1192,130,1185,144,1183,160,1186,167,1194"/>
+<area shape="poly" id="edge32_Node000025_Node000025" title=" " alt="" coords="163,1271,157,1264,144,1261,132,1263,127,1268,125,1274,129,1281,124,1284,120,1274,122,1265,130,1258,144,1256,160,1259,167,1268"/>
+</map>

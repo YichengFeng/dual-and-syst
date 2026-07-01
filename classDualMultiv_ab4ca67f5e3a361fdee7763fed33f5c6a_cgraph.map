@@ -1,0 +1,5 @@
+<map id="DualMultiv::set_derivative" name="DualMultiv::set_derivative">
+<area shape="rect" id="Node000001" title="Set partial derivative from a DualNumber&#39;s derivative." alt="" coords="5,5,199,31"/>
+<area shape="rect" id="Node000002" href="$classDualNumber.html#aaeb8e18ab0139f12f4773be4e52e2d94" title="Get the derivative." alt="" coords="247,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,15,233,15,233,21,199,21"/>
+</map>

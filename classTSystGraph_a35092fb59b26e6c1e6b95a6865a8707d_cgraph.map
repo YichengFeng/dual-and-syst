@@ -1,0 +1,5 @@
+<map id="TSystGraph::set_var" name="TSystGraph::set_var">
+<area shape="rect" id="Node000001" title="Set (overwrite) a TSystVariation." alt="" coords="5,5,159,31"/>
+<area shape="rect" id="Node000002" href="$classSystGraph.html#abc74e07149b5298f13ea0591e0ac4bc5" title="Set (overwrite or insert) a variation." alt="" coords="207,5,352,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,15,193,15,193,21,159,21"/>
+</map>

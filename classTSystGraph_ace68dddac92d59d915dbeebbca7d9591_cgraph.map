@@ -1,0 +1,10 @@
+<map id="TSystGraph::set_style_color" name="TSystGraph::set_style_color">
+<area shape="rect" id="Node000001" title="Set marker style and color for all three ROOT output graphs." alt="" coords="5,22,169,62"/>
+<area shape="rect" id="Node000002" href="$classTSystGraph.html#a6d79f1d0fb9f9ac9afe57298543adec6" title="Trigger calc() only if ROOT graphs are not up to date." alt="" coords="217,22,364,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,39,204,39,204,45,170,45"/>
+<area shape="rect" id="Node000003" href="$classTSystGraph.html#a03ad308f8240ea6cbc50d17b4c508fbf" title="Evaluate systematics for all variations." alt="" coords="412,29,543,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,39,398,39,398,45,364,45"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="447,31,440,21,444,11,456,5,477,3,503,6,513,15,510,19,501,11,477,8,458,10,448,15,446,20,451,28"/>
+<area shape="rect" id="Node000004" href="$classSystGraph.html#a4fa97187927f3822a131ae3539375884" title="Get the list of all variation IDs." alt="" coords="591,29,736,55"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="543,39,576,39,576,45,543,45"/>
+</map>
